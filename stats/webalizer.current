@@ -1,0 +1,3710 @@
+# Webalizer V2.01-10 Incremental Data - 04/24/2012 05:28:34
+2012 4 24 5 28 34
+17954 14639 679 337 201 234 357801755 4011 958 0
+5 1 639 1 24
+325 288 7075534 24 52 25
+1423 1250 25058810 58 285 73
+1086 982 22491993 62 176 69
+1287 1152 25920420 65 302 67
+755 679 14634718 41 134 45
+77 69 1690 32 43 34
+280 252 5154413 32 67 39
+202 177 3860648 22 49 23
+1145 929 19510475 60 165 52
+2579 1790 33806974 50 671 57
+561 497 10339384 29 103 36
+797 446 9596885 34 319 32
+422 390 9364988 31 51 31
+163 141 3059131 24 50 24
+608 471 9741915 29 179 30
+771 680 12023027 34 181 39
+1171 961 21401191 52 197 54
+1240 1059 36051301 41 254 53
+551 416 16963299 38 124 42
+921 705 22089720 49 177 40
+289 258 10890156 26 39 25
+309 231 6242407 28 162 23
+950 777 31086493 42 221 39
+42 39 1436183 5 10 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+106 92 2374618 36
+104 87 1483396 48
+51 46 1101820 16
+225 154 3027949 65
+193 175 4792806 43
+435 370 9762509 101
+802 696 15330091 157
+1345 1161 28796474 180
+2457 2006 43607483 516
+1539 1065 28173036 259
+1144 907 22597575 186
+1530 1299 29436578 395
+1312 1172 27828282 276
+678 583 15720102 116
+901 767 19026208 218
+904 799 20779545 160
+763 612 12110690 178
+1205 911 23250442 373
+606 476 14951243 125
+811 527 16667910 327
+202 179 5205999 49
+187 172 4450935 35
+431 363 7144178 136
+23 20 181886 16
+0
+0
+0
+14639
+0
+0
+0
+0
+0
+56
+0
+3
+207
+0
+1004
+0
+0
+3
+0
+0
+2
+2034
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+# -urls- 
+/images/Cal_price.png
+1 103 3330472608808843569 8637789 0 0
+/phpmyadmin/themes/pmahomme/img/s_notice.png
+1 5 0 2664 0 0
+/js/dashboard_calculation.js
+0 28 8386112019186136114 174192 0 0
+/js/jquery/jquery.pngFix.pack.js
+0 6 0 14910 0 0
+/phpmyadmin/main.php
+0 5 0 137576 0 0
+/js/jquery/ui.core.js
+0 6 0 83592 0 0
+/images/shared/top_bg.jpg
+1 6 0 49280 0 0
+/
+0 2899 0 49695781 942 345
+/mail_images/tlcurve.gif
+1 13 0 15458 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 7 0 29526 0 0
+/phpmyadmin/themes/pmahomme/img/b_props.png
+1 5 0 2652 0 0
+/images/print_recipe.png
+1 14 0 29991 0 0
+/phpmyadmin/themes/pmahomme/img/b_relations.png
+1 3 0 651 0 0
+/images/img/prev_mon.gif
+1 15 7146778732808725038 885 0 0
+/images/Your_Calcipe_dashboard.png
+1 119 0 17933785 0 0
+/images/BlockHeader_left.jpg
+1 27 110 35386 0 0
+/images/img/next_year.gif
+1 14 4120843564037792110 980 0 0
+/images/edit_recipe.png
+1 14 104137504 29705 0 0
+/images/linkedin.gif
+1 31 0 18972 0 0
+/js//facebox.js
+0 104 0 944201 0 0
+/phpmyadmin/themes/pmahomme/img/b_sbrowse.png
+1 4 0 2264 0 0
+/images/close.png
+1 378 0 379496 0 0
+/phpmyadmin/themes/pmahomme/img/s_asci.png
+1 3 0 627 0 0
+/css/nivo-slider.css
+0 396 0 537026 0 0
+/js/contentslider.js
+0 18 0 167856 0 0
+/images/add_new.png
+1 27 0 106236 0 0
+/images/thumbs/no_image.jpg
+1 4 0 15984 0 0
+/phpmyadmin/js/jquery/jquery.sprintf.js
+0 5 0 2961 0 0
+/images/users.png
+1 6 0 25720 0 0
+/phpmyadmin/themes/pmahomme/img/error.ico
+0 1 0 5430 0 0
+/phpmyadmin/themes/pmahomme/img/b_bookmark.png
+1 1 0 714 0 0
+/phpmyadmin/themes/pmahomme/img/s_vars.png
+1 3 0 1809 0 0
+/images/Block-v.png
+1 27 0 4290 0 0
+/images/Search.png
+1 27 0 99398 0 0
+/images/shared/border_bit.jpg
+1 6 0 2545 0 0
+/images/img/cal.gif
+1 25 0 3000 0 0
+/phpmyadmin/js/common.js
+0 12 0 21176 0 0
+/js//js_function.js
+0 106 0 840420 0 0
+/phpmyadmin/themes/pmahomme/img/s_passwd.png
+1 3 0 1305 0 0
+/images/forward.png
+1 27 0 27586 0 0
+/phpmyadmin/themes/pmahomme/img/b_sqlhelp.png
+1 4 0 2316 0 0
+/images/login/login_bg.jpg
+1 6 0 329355 0 0
+/css/userRegister.css
+0 69 0 296609 0 0
+/phpmyadmin/themes/pmahomme/img/b_select.png
+1 3 8317355112703091045 2040 0 0
+/images/Save_your_Recipes.png
+1 117 7310593892056707634 12638616 0 0
+/js/jquery/jquery.selectbox-0.5.js
+0 6 3615674097589973869 30606 0 0
+/images/icon_send_feedback.png
+1 32 0 25920 0 0
+/images/arrows1.png
+1 324 0 261208 0 0
+/phpmyadmin/themes/pmahomme/img/bd_empty.png
+1 3 0 693 0 0
+/images/save_money.gif
+1 340 0 1870066 0 0
+/images/img/next_mon.gif
+1 14 0 840 0 0
+/images/icon_phone.png
+1 31 0 54529 0 0
+/images/Post-v.png
+1 26 0 3500 0 0
+/images/MenuItem.png
+1 27 0 29510 0 0
+/images/BlockHeader_mdi.jpg
+1 27 0 31226 0 0
+/images/blog.gif
+1 31 0 32705 0 0
+/images/edit_icon.png
+1 11 0 13013 0 0
+/images/admin_icons/13.gif
+1 6 0 17585 0 0
+/images/img/prev_year.gif
+1 14 0 966 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblimport.png
+1 5 0 2516 0 0
+/phpmyadmin/themes/pmahomme/img/s_db.png
+1 5 0 1560 0 0
+/phpmyadmin/tbl_addfield.php
+0 6 0 901811 0 1
+/images/admin_icons/icon_ingredients.gif
+1 6 0 8410 0 0
+/images/admin_icons/6.gif
+1 6 0 16455 0 0
+/phpmyadmin/
+0 23 0 85087 2 0
+/images/Regis_button.png
+1 103 0 486132 0 0
+/js/calculation_edit.js
+0 10 0 174044 0 0
+/phpmyadmin/tbl_sql.php
+0 7 0 89822 0 0
+/images_2/Previous.png
+1 6 0 12756 0 0
+/images/loading.gif
+1 386 0 1004421 0 0
+/images/recipe.png
+1 24 0 1260952 0 0
+/js/jquery/ui.checkbox.js
+0 6 0 29352 0 0
+/js//jquery-1.6.1.min.js
+0 103 0 9408226 0 0
+/images/login/inp_login.gif
+1 6 0 2100 0 0
+/js/facebox.js
+0 413 0 3563539 0 0
+/js/jquery/jquery-1.4.1.min.js
+0 6 0 425058 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblexport.png
+1 5 0 2564 0 0
+/phpmyadmin/themes/pmahomme/img/bd_select.png
+1 3 7311982588449943411 1377 0 0
+/images/shared/checkbox.gif
+1 2 3256438075717648384 556 0 0
+/images/shared/top_search_select.gif
+1 6 3329347807654969344 1870 0 0
+/css/validation_jquery.css
+0 23 3330752984257146929 25542 0 0
+/phpmyadmin/themes/pmahomme/img/database.png
+1 3 0 1170 0 0
+/images/thumbs/290320121475.jpg
+1 4 0 11006 0 0
+/images/icon_email.jpg
+1 31 0 138415 0 0
+/js/jquery.nivo.slider.js
+0 391 0 8953583 0 0
+/phpmyadmin/themes/pmahomme/img/bd_index.png
+1 1 0 253 0 0
+/images/icon_feature.png
+1 331 0 645171 0 0
+/mail_images/tweeter.gif
+1 12 0 29264 0 0
+/phpmyadmin/themes/pmahomme/img/b_sql.png
+1 5 0 2992 0 0
+/phpmyadmin/themes/pmahomme/img/b_snewtbl.png
+1 4 0 2932 0 0
+/phpmyadmin/themes/pmahomme/img/s_host.png
+1 5 0 2668 0 0
+/images/forms/form_textarea.gif
+1 1 0 676 0 0
+/phpmyadmin/themes/pmahomme/img/b_docs.png
+1 4 0 3144 0 0
+/images/Block-s.png
+1 27 0 10842 0 0
+/images/thumbs/21212.jpeg
+0 11 0 39358 0 0
+/phpmyadmin/themes/pmahomme/img/bd_primary.png
+1 4 0 1248 0 0
+/phpmyadmin/themes/pmahomme/img/b_views.png
+1 4 0 2800 0 0
+/css/profileTab.css
+0 14 0 22778 0 0
+/js/jquery/date.js
+0 6 0 73374 0 0
+/phpmyadmin/themes/pmahomme/img/s_reload.png
+1 4 0 2432 0 0
+/images/shared/nav/back_0.gif
+1 6 0 815 0 0
+/images/cal_logo.png
+1 6 0 56120 0 0
+/js/js_function.js
+0 127 0 984492 0 0
+/segoesc.ttf
+0 1 0 620204 0 0
+/images/Profile-Info.png
+1 25 0 93403 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+1 4 0 860 0 0
+/images/Post-s.png
+1 26 0 10275 0 0
+/images/img/no_cal.gif
+1 3 0 414 0 0
+/js/calculation_recipe.js
+0 16 0 383764 0 0
+/js/core1.js
+0 11 0 32890 0 0
+/images/admin_icons/3.gif
+1 6 0 17780 0 0
+/phpmyadmin/themes/pmahomme/img/b_home.png
+1 4 7018142236591534381 3224 0 0
+/images/new_user_register.png
+1 66 7022364357351386451 261365 0 0
+/images/shared/nav/nav_myaccount.gif
+1 6 0 4160 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.8.custom.css
+0 8 0 185076 0 0
+/images/login/loginbox_bg.png
+1 6 104150960 55765 0 0
+/css/contentslider.css
+0 18 0 15232 0 0
+/images/noimage_male.png
+1 15 0 73808 0 0
+/images/table/table_sort_arrow.gif
+1 6 0 270 0 0
+/js/slidediv.js
+0 25 0 101706 0 0
+/phpmyadmin/js/messages.php
+0 19 0 93889 0 4
+/css/datePicker.css
+0 6 0 17634 0 0
+/images/Sheet-h.png
+1 27 0 4264 0 0
+/images/Easy_to_fill_Cost_and_calculate.png
+1 118 0 14622292 0 0
+/images/Pay-right-eat-right-1004x300.gif
+1 277 0 18371682 0 0
+/phpmyadmin/themes/pmahomme/img/b_print.png
+1 4 0 2924 0 0
+/js/jquery.jcarousel.min.js
+0 5 0 78255 0 0
+/images/shared/top_search_btn.gif
+1 6 0 3680 0 0
+/phpmyadmin/themes/pmahomme/img/b_import.png
+1 3 0 1887 0 0
+/phpmyadmin/js/db_structure.js
+0 3 0 9534 0 0
+/phpmyadmin/themes/pmahomme/img/s_tbl.png
+1 5 0 2856 0 0
+/mail_images/logo2.gif
+1 13 0 128810 0 0
+/images/duplicate_recipe.png
+1 15 0 13412 0 0
+/images/dashboard.png
+1 24 0 154422 0 0
+/images/forms/button_background.gif
+1 1 0 699 0 0
+/phpmyadmin/themes/pmahomme/img/b_engine.png
+1 3 0 1404 0 0
+/images/add_ingred.png
+1 27 0 90974 0 0
+/phpmyadmin/navigation.php
+0 11 0 154946 1 1
+/phpmyadmin/themes/pmahomme/img/b_selboard.png
+1 4 0 2792 0 0
+/js/jquery/jquery.filestyle.js
+0 6 0 16254 0 0
+/images/admin_icons/2.gif
+1 6 0 18180 0 0
+/phpmyadmin/themes/pmahomme/img/bd_ftext.png
+1 4 0 876 0 0
+/js/jquery-1.6.1.min.js
+0 419 0 35912354 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblanalyse.png
+1 4 0 936 0 0
+/phpmyadmin/themes/pmahomme/img/input_bg.gif
+1 8 5210042 972 0 0
+/phpmyadmin/themes/pmahomme/img/s_lang.png
+1 3 7958824813261225984 2229 0 0
+/images/shared/corner_bottom_left.jpg
+1 6 20351 2960 0 0
+/css/style.css
+0 28 104164560 952950 0 0
+/images/arrows.png
+1 13 0 52164 0 0
+/phpmyadmin/js/update-location.js
+0 73 0 4548 0 0
+/phpmyadmin/themes/pmahomme/img/b_browse.png
+1 5 0 2264 0 0
+/js/tcal.js
+0 76 0 863876 0 0
+/phpmyadmin/themes/pmahomme/img/b_search.png
+1 5 0 2460 0 0
+/images/thumbs/gold1.JPG
+1 2 0 11760 0 0
+/phpmyadmin/themes/pmahomme/img/b_export.png
+1 4 0 1923 0 0
+/images/Recipe-Info.png
+1 27 0 103220 0 0
+/phpmyadmin/themes/pmahomme/img/s_error.png
+1 8 0 4206 0 0
+/phpmyadmin/themes/pmahomme/img/item_ltr.png
+1 5 0 648 0 0
+/images/popclose.png
+1 27 0 26650 0 0
+/js/jquery/jquery.tooltip.js
+0 6 0 43086 0 0
+/images/MenuSeparator.png
+1 27 0 4992 0 0
+/robots.txt
+0 12 0 312 0 0
+/images/admin_icons/1.gif
+1 6 0 16040 0 0
+/images/slideshow.png
+1 14 0 39637 0 0
+/images/bullets.png
+1 329 0 412482 0 0
+/js/jquery/jquery.bind.js
+0 6 0 2568 0 0
+/phpmyadmin/js/jquery/jquery-1.4.4.js
+0 77 0 782680 0 0
+/phpmyadmin/themes/pmahomme/img/s_loggoff.png
+1 4 0 2752 0 0
+/phpmyadmin/themes/pmahomme/img/tab_bg.png
+1 5 0 640 0 0
+/css/mini-pricing-grid.css
+0 106 0 274540 0 0
+/images/shared/nav/account_drop_bg.gif
+1 4 0 2214 0 0
+/images/Recipe-Calculation-1004x300.gif
+1 281 0 18082300 0 0
+/images/Page-BgSimpleGradient.jpg
+1 27 0 16406 0 0
+/images/help_request.png
+1 27 0 114322 0 0
+/images/view_edit.png
+1 27 0 102674 0 0
+/phpmyadmin/js/cross_framing_protection.js
+0 63 0 1986 0 0
+/phpmyadmin/js/pMap.js
+0 19 0 7660 0 0
+/images/Sheet-v.png
+1 27 0 4394 0 0
+/phpmyadmin/themes/pmahomme/img/tab_hover_bg.png
+1 5 0 5112 0 0
+/phpmyadmin/js/config.js
+0 47 0 37920 0 0
+/images/table/table_header_checkbox.jpg
+1 6 0 3330 0 0
+/images/DILIGENT-CONSUMPTION-1004x300.gif
+1 283 0 15625055 0 0
+/phpmyadmin/themes/pmahomme/img/s_status.png
+1 3 0 2019 0 0
+/phpmyadmin/themes/pmahomme/img/b_help.png
+1 8 0 9564 0 0
+/favicon.ico
+0 30 0 754 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+1 4 0 976 0 0
+/images/nav.png
+1 27 0 24830 0 0
+/tablesort/themes/blue/style.css
+0 15 0 13680 0 0
+/phpmyadmin/themes/pmahomme/img/s_asc.png
+1 3 0 603 0 0
+/phpmyadmin/themes/pmahomme/img/bd_browse.png
+1 3 0 600 0 0
+/images/rupees-icon.png
+1 17 0 25056 0 0
+/images/table/icon_close_green.gif
+1 1 0 514 0 0
+/images/ingredients.png
+1 24 0 454204 0 0
+/images/view_ingred.png
+1 27 0 59592 0 0
+/images/Ease_of_Add_Recipe_and_Get_Information.png
+1 119 0 22647024 0 0
+/images/forms/form_select_small.gif
+1 1 0 408 0 0
+/phpmyadmin/js/jquery/jquery.qtip-1.0.0.min.js
+0 63 0 230604 0 0
+/phpmyadmin/js/navigation.js
+0 4 0 10084 0 0
+/js//jquery.nivo.slider.js
+0 104 0 2533594 0 0
+/css/calcipe_reg.css
+0 69 0 1382143 0 0
+/images/addingredient.jpg
+1 16 0 332820 0 0
+/images/error.png
+1 11 0 39116 0 0
+/js/sliding.form.js
+0 64 0 966394 0 0
+/images/shared/corner_bottom_right.jpg
+1 6 0 2940 0 0
+/css/style2.css
+0 5 0 188110 0 0
+/mail_images/blcurv.gif
+1 12 0 20420 0 0
+/images/new_user_reg_bg.png
+1 53 0 51714 0 0
+/images/table/table_header_options.jpg
+1 6 0 5200 0 0
+/images/checked.png
+1 12 0 44388 0 0
+/images/table/icon_close_yellow.gif
+1 6 0 2590 0 0
+/phpmyadmin/themes/pmahomme/img/b_drop.png
+1 4 0 2860 0 0
+/phpmyadmin/server_sql.php
+0 1 22323390501171253 9176 0 0
+/google0dba398789019405.html
+0 2 7628142 79 2 2
+/images/shared/nav/pro_line_1.gif
+1 6 7233185013597828194 5760 0 0
+/js/validation_rec2.js
+0 18 104030288 317728 0 0
+/phpmyadmin/themes/pmahomme/img/b_newtbl.png
+1 2 0 650 0 0
+/images/thumbs/free1.JPG
+1 2 0 7406 0 0
+/phpmyadmin/js/querywindow.js
+0 2 0 783 0 0
+/images/favicon.ico
+0 196 0 883554 0 0
+/images/shared/top_search_inp.gif
+1 6 0 880 0 0
+/images/table/table_icon_3.gif
+1 6 0 2055 0 0
+/css/movingboxes.css
+0 18 0 39648 0 0
+/css/tcal.css
+0 76 0 203796 0 0
+/images/multiple_cost.png
+1 27 0 32006 0 0
+/phpmyadmin/themes/pmahomme/img/b_unique.png
+1 4 0 5900 0 0
+/phpmyadmin/themes/pmahomme/img/b_inline_edit.png
+1 4 0 2472 0 0
+/images/MEASURE-INGREDIENTS-1004x300.gif
+1 277 0 16450911 0 0
+/images/Complete_Recipe_Do.png
+1 119 0 17107658 0 0
+/images/icon_contactus.png
+1 31 0 75764 0 0
+/images/plan-change.png
+1 24 0 345759 0 0
+/images/email_open.png
+1 27 0 42198 0 0
+/images/table/message_green.gif
+1 1 0 666 0 0
+/images/Sheet-s.png
+1 27 0 5850 0 0
+/images/shared/side_shadowleft.jpg
+1 6 0 4235 0 0
+/phpmyadmin/js/functions.js
+0 67 0 315630 0 0
+/phpmyadmin/print.css
+0 8 0 6384 0 0
+/phpmyadmin/themes/pmahomme/img/s_sync.png
+1 3 0 1653 0 0
+/phpmyadmin/themes/pmahomme/img/b_empty.png
+1 3 0 1089 0 0
+/images/table/table_icon_2.gif
+1 6 0 2010 0 0
+/images/shared/nav/nav_logout.gif
+1 6 0 3035 0 0
+/js/script.js
+0 31 0 222750 0 0
+/images/shared/side_shadowright.jpg
+1 6 0 4200 0 0
+/images/shared/corner_top_left.jpg
+1 6 0 2935 0 0
+/images/shared/content_repeat.jpg
+1 6 0 2915 0 0
+/images/m-icon.gif
+1 2 0 4458 0 0
+/images_2/Next.png
+1 7 0 11015 0 0
+/images/login/submit_login.gif
+1 6 0 7045 0 0
+/js/jquery/jquery.selectbox-0.5_style_2.js
+0 6 0 30630 0 0
+/phpmyadmin/tbl_row_action.php
+0 4 0 352958 0 0
+/mail_images/clicktoconfirm.gif
+1 9 0 60588 0 0
+/phpmyadmin/themes/pmahomme/img/bd_unique.png
+1 1 0 218 0 0
+/images/table/table_icon_1.gif
+1 6 0 2275 0 0
+/images/arrow.png
+1 334 0 74784 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblops.png
+1 5 0 2440 0 0
+/images/thumbs/noimage-small.jpg
+1 11 0 26160 0 0
+/css/calcipe.css
+0 406 0 7911214 0 0
+/js/jquery.movingboxes.js
+0 18 0 267152 0 0
+/images/table/select_number_rows.gif
+1 1 0 334 0 0
+/images/One-too-many-1004x300.gif
+1 282 0 15057649 0 0
+/phpmyadmin/themes/pmahomme/img/b_more.png
+1 5 0 4008 0 0
+/mail_images/hr.gif
+1 12 0 28384 0 0
+/images/search.jpg
+1 27 0 623402 0 0
+/images/facebook.gif
+1 30 0 10350 0 0
+/js/jquery/jquery.datePicker.js
+0 6 0 252450 0 0
+/images/thumbs/platinum1.JPG
+1 4 0 20008 0 0
+/phpmyadmin/js/export.js
+0 2 0 5475 0 0
+/demo/demo.css
+0 17 0 12256 0 0
+/phpmyadmin/sql.php
+0 25 0 3876258 0 0
+/phpmyadmin/themes/pmahomme/img/window-new.png
+1 4 0 2332 0 0
+/phpmyadmin/themes/pmahomme/img/b_edit.png
+1 4 0 1776 0 0
+/images/thumbs/066.bmp
+0 6 0 35712 0 0
+/images/thumbs/halwa.jpg
+1 5 0 20349 0 0
+/phpmyadmin/themes/pmahomme/img/s_desc.png
+1 1 0 201 0 0
+/images/newss.png
+1 25 0 99774 0 0
+/images/shared/nav/divider.jpg
+1 6 0 3140 0 0
+/phpmyadmin/themes/pmahomme/img/b_index.png
+1 4 0 2944 0 0
+/phpmyadmin/js/jquery/jquery-ui-1.8.custom.js
+0 31 0 763060 0 0
+/js/jquery/jquery.dimensions.js
+0 6 0 106590 0 0
+/images/table/icon_close_blue.gif
+1 6 0 2590 0 0
+/demo/demo.js
+0 17 0 74304 0 0
+/mail_images/brcurv.gif
+1 12 0 19144 0 0
+/css/default.css
+0 417 0 600088 0 0
+/images/Ingredient-Info.png
+1 27 0 114374 0 0
+/phpmyadmin/import.php
+0 10 0 572819 0 1
+/images/pdf_recipe.png
+1 14 0 18512 0 0
+/mail_images/join.gif
+1 2 0 7637 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 26 0 868606 2 4
+/mail_images/mob2.gif
+1 12 0 43531 0 0
+/phpmyadmin/themes/pmahomme/img/s_theme.png
+1 3 0 2568 0 0
+/mail_images/trcurve.gif
+1 12 0 14216 0 0
+/gredient_130.xls
+0 3 104326720 26904 0 0
+/css/screen.css
+0 6 0 182718 0 0
+/images/shared/corner_top_right.jpg
+1 6 0 2965 0 0
+/js/jquery.js
+0 24 0 1281445 0 0
+/phpmyadmin/tbl_structure.php
+0 4 0 1004607 0 0
+http://calcipe.com/robots.txt
+0 1 0 26 0 0
+/phpmyadmin/themes/pmahomme/img/b_insrow.png
+1 5 0 912 0 0
+/phpmyadmin/js/tbl_structure.js
+0 4 0 5916 0 0
+/phpmyadmin/js/keyhandler.js
+0 3 0 2568 0 0
+/images/Footer.png
+1 27 0 99450 0 0
+/images/twitter.gif
+1 31 0 19158 0 0
+/images/upArrow1.png
+1 13 0 3471 0 0
+/images/save-recipe.jpg
+1 16 0 42300 0 0
+/images/thumbs/Picture_R_1226.jpg
+1 4 0 3388 0 0
+/phpmyadmin/js/sql.js
+0 26 0 63780 0 0
+/css/ingredientTab.css
+0 15 0 24405 0 0
+/phpmyadmin/themes/pmahomme/img/more.png
+1 4 0 2212 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+1 4 0 19880 0 0
+/js/jquery/custom_jquery.js
+0 6 0 15378 0 0
+/phpmyadmin/favicon.ico
+0 6 0 113412 0 0
+/images/Cal_bite.png
+1 103 0 11138910 0 0
+/phpmyadmin/querywindow.php
+0 2 0 18450 0 0
+/images/icon_testimonials.png
+1 325 0 790944 0 0
+/phpmyadmin/themes/pmahomme/img/b_primary.png
+1 4 0 2448 0 0
+/phpmyadmin/export.php
+0 2 0 6876 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+1 4 0 736 0 0
+/images/minus_image.png
+1 23 0 3080 0 0
+/phpmyadmin/themes/pmahomme/img/s_success.png
+1 5 0 2148 0 0
+/images/Calcipe-recipe-logo.gif
+1 389 0 9727057 0 0
+/mail_images/facebook.gif
+1 12 0 28384 0 0
+/images/thumbs/silver_plan.jpg
+1 3 0 8976 0 0
+/images/Block-h.png
+1 27 0 3978 0 0
+/images/forms/form_select.gif
+1 1 0 491 0 0
+/phpmyadmin/themes/pmahomme/img/b_chart.png
+1 4 0 2164 0 0
+/images/icon_mobile.png
+1 31 0 89187 0 0
+/images/shared/nav/repeat.jpg
+1 6 0 2755 0 0
+/images/upArrow.png
+1 20 0 19266 0 0
+/images/BlockHeader_right.jpg
+1 27 0 36036 0 0
+/phpmyadmin/themes/pmahomme/img/s_process.png
+1 3 0 1536 0 0
+/phpmyadmin/db_structure.php
+0 3 0 292586 0 0
+/images/share_recipe.png
+1 15 0 37410 0 0
+/phpmyadmin/themes/pmahomme/img/b_ftext.png
+1 1 0 1432 0 0
+/phpmyadmin/themes/pmahomme/img/marked_bg.png
+1 4 0 3908 0 0
+/images/table/table_header_repeat.jpg
+1 6 0 2700 0 0
+/mail_images/bg.gif
+1 11 0 13776 0 0
+/css/buttons.css
+0 108 0 652272 0 0
+/images/Post-h.png
+1 26 0 3425 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-220-181-108-181.crawl.baidu.com
+0 4 4 30883 3 1335109136
+/
+crawl-66-249-66-45.googlebot.com
+0 29 22 463797 5 1334414338
+/
+59.92.152.82
+0 23 22 525391 1 1334564069
+/
+abts-mum-dynamic-150.176.179.122.airtelbroadband.in
+0 15 15 281267 1 1334074773
+/
+abts-tn-static-146.70.165.122.airtelbroadband.in
+0 38 35 900215 1 1333614100
+/
+abts-kk-dynamic-007.204.172.122.airtelbroadband.in
+0 1 1 26 1 1333719818
+/
+199.19.249.196
+0 1 1 10335 1 1334333048
+/
+abts-kk-dynamic-153.244.167.122.airtelbroadband.in
+0 27 25 525397 1 1333644820
+/
+66.220.146.249
+0 1 1 5599 0 0
+-
+abts-kk-dynamic-160.199.178.122.airtelbroadband.in
+0 22 21 520813 1 1334593419
+/
+iy-in-f86.1e100.net
+0 1 1 57011 0 0
+-
+abts-kk-dynamic-191.162.166.122.airtelbroadband.in
+0 601 431 10733110 12 1335002550
+/
+opix-240-41.stercomm.com
+0 22 21 520813 1 1334044753
+/
+crawl435.us.archive.org
+0 3 3 78 1 1333649216
+/
+106.204.120.238
+0 29 26 558334 1 1333487601
+/
+baiduspider-123-125-71-98.crawl.baidu.com
+0 1 0 288 0 0
+-
+122.167.248.77
+0 20 19 1028483 1 1335030349
+/
+117.202.17.130
+0 1 1 26 1 1333696018
+/
+iy-in-f97.1e100.net
+0 5 5 175271 2 1335009938
+/
+wtp-g8-maya6.iad1
+0 14 12 320446 4 1334491244
+/
+qa-in-f25.1e100.net
+0 1 1 10335 1 1333302152
+/
+abts-kk-dynamic-095.26.167.122.airtelbroadband.in
+0 22 21 1030588 1 1335185448
+/
+75.98.22.131
+0 46 43 1424294 1 1334970302
+/
+117.192.17.41
+0 34 33 974290 1 1334069033
+/
+abts-kk-dynamic-204.75.167.122.airtelbroadband.in
+0 2 1 10637 1 1333629963
+/
+abts-kk-dynamic-060.244.167.122.airtelbroadband.in
+0 25 24 553299 1 1333281611
+/
+static-236.178.98.14.tataidc.co.in
+0 23 22 1266642 1 1334828406
+/
+abts-kk-static-156.229.166.122.airtelbroadband.in
+0 23 22 525391 1 1333453145
+/
+urlc5.mail.mud.yahoo.com
+0 2 2 20670 1 1333381044
+/
+ip-141-255-184-209.kna.citycloud.se
+0 1 1 10329 1 1335010266
+/
+183.177.126.200
+0 22 21 1030588 1 1335176487
+/
+iy-in-f89.1e100.net
+0 1 1 3727 1 1333954968
+/
+123-108-231-45.bhandup.hns.net.in
+0 40 37 912672 1 1333999437
+/
+baiduspider-220-181-108-78.crawl.baidu.com
+0 1 1 10261 1 1334666136
+/
+117.192.255.123
+0 8 7 159327 1 1334564263
+/
+cpe-98-155-50-158.san.res.rr.com
+0 20 19 518708 1 1333474228
+/
+abts-north-dynamic-004.160.177.122.airtelbroadband.in
+0 20 19 1047270 1 1335170544
+/
+117.200.139.232
+0 22 21 1030588 1 1334846132
+/
+abts-kk-dynamic-107.197.178.122.airtelbroadband.in
+0 22 21 520813 1 1333818556
+/
+abts-tn-dynamic-222.32.174.122.airtelbroadband.in
+0 27 25 547875 1 1333573389
+/
+59.95.50.228
+0 28 25 1061006 1 1335169160
+/
+abts-kk-dynamic-248.15.172.122.airtelbroadband.in
+0 22 21 1030588 1 1335182231
+/
+na6dccfw02.fidelity.com
+0 39 34 899545 1 1334061270
+/
+we-in-f81.1e100.net
+0 2 2 165368 0 0
+-
+baiduspider-220-181-108-85.crawl.baidu.com
+0 3 3 41156 2 1334671934
+/
+27.106.42.19
+0 76 65 1564687 1 1333475191
+/
+220.181.127.126
+0 1 1 10267 1 1333563671
+/
+baiduspider-220-181-108-89.crawl.baidu.com
+0 1 1 10267 1 1334180104
+/
+baiduspider-180-76-5-107.crawl.baidu.com
+0 1 1 10261 1 1335234530
+/
+117.192.133.215
+0 36 34 976671 1 1334074931
+/
+cbf02m01-in-f82.1e100.net
+0 2 2 20670 2 1333452592
+/
+50.97.98.131-static.reverse.softlayer.com
+0 3 3 30937 1 1333382072
+/
+msnbot-207-46-13-97.search.msn.com
+0 5 0 1420 0 0
+-
+abts-kk-static-242.241.172.122.airtelbroadband.in
+0 22 21 520813 1 1334342942
+/
+triband-mum-59.182.120.12.mtnl.net.in
+0 43 41 1047245 1 1334065216
+/
+abts-kk-dynamic-055.249.167.122.airtelbroadband.in
+0 1 1 10335 1 1333366915
+/
+115.244.157.50
+0 22 21 520813 1 1333986929
+/
+112-79-40-80.live.vodafone.in
+0 176 134 2715604 5 1335083448
+/
+vl210.cr1.sfo1.peakwebhosting.com
+0 22 21 520813 1 1334135967
+/
+static-228.194.99.14.tataidc.co.in
+0 18 17 940632 1 1335025375
+/
+baiduspider-220-181-108-92.crawl.baidu.com
+0 2 2 20522 2 1335076422
+/
+we-in-f92.1e100.net
+0 1 1 26606 0 0
+-
+baiduspider-220-181-108-96.crawl.baidu.com
+0 1 1 10261 1 1334835347
+/
+insmtp.in.nds.com
+0 34 32 877731 1 1334297498
+/
+106.51.2.28
+0 22 21 1030588 1 1334946123
+/
+qa-in-f39.1e100.net
+0 1 1 26 1 1333707571
+/
+crawl-66-249-68-36.googlebot.com
+0 2 1 10551 1 1333979979
+/
+117.219.176.122
+0 31 28 657419 1 1333615019
+/
+sticker00.yandex.ru
+0 60 40 417688 10 1335180656
+/
+117.219.227.156
+0 22 21 1030588 1 1334873741
+/
+gateway1.colt-telecom.com
+0 22 21 520813 1 1333625549
+/
+ip-176-195-214-254.bb.netbynet.ru
+0 8 7 159255 1 1333379961
+/
+abts-kk-dynamic-108.74.179.122.airtelbroadband.in
+0 37 34 1405400 1 1335184407
+/
+crawl-66-249-68-153.googlebot.com
+0 2 1 10617 1 1334951771
+/
+we-in-f84.1e100.net
+0 2 2 144645 0 0
+-
+nsg-static-146.241.71.182.airtel.in
+0 22 21 1030588 1 1334756753
+/
+static-58.65.156.182.tataidc.co.in
+0 68 66 4379743 1 1334779189
+/
+host92-241-245-126.etth.mark-itt.net
+0 2 2 10267 2 1334538987
+/
+69.171.234.1
+0 1 1 10335 1 1334646137
+/
+69.171.234.2
+0 1 1 58838 0 0
+-
+dsl-mum-static-ilp-210.6.182.122.airtelbroadband.in
+0 35 33 562259 1 1333357868
+/
+14.140.53.86.static-mumbai.net.in
+0 24 22 531450 1 1334298694
+/
+69.171.234.7
+0 1 1 5599 0 0
+-
+115.249.30.178
+0 5 5 191223 0 0
+-
+110.172.152.3
+0 20 19 518708 1 1333529655
+/
+abts-kk-dynamic-053.197.178.122.airtelbroadband.in
+0 234 211 2897133 4 1333579391
+/
+we-in-f95.1e100.net
+0 3 3 13381 1 1334044897
+/
+101.63.232.182
+0 27 24 1056428 1 1334747988
+/
+117.192.35.178
+0 45 39 1033093 1 1334637057
+/
+crawl-66-249-71-101.googlebot.com
+0 7 6 222649 2 1334820878
+/
+208-115-111-72-reverse.wowrack.com
+0 8 4 46144 4 1335128103
+/
+117.192.88.25
+0 22 21 520813 1 1334646473
+/
+117.196.223.5
+0 50 44 716368 1 1333482100
+/
+59.92.144.252
+0 22 21 520813 1 1334310304
+/
+baiduspider-220-181-108-100.crawl.baidu.com
+0 1 1 10329 1 1334840415
+/
+117.204.236.225
+0 43 40 978840 1 1333534413
+/
+abts-kk-dynamic-247.179.172.122.airtelbroadband.in
+0 43 38 929003 1 1333570375
+/
+baiduspider-180-76-5-150.crawl.baidu.com
+0 1 1 10335 1 1333484418
+/
+baiduspider-220-181-108-108.crawl.baidu.com
+0 1 1 1432 0 0
+-
+baiduspider-180-76-5-154.crawl.baidu.com
+0 1 1 10267 1 1333592795
+/
+120.88.180.25
+0 33 32 883949 1 1334001470
+/
+64.246.178.34
+0 2 1 10623 1 1333959457
+/
+baiduspider-180-76-5-50.crawl.baidu.com
+0 2 2 20670 2 1334628656
+/
+bgl12-dmz-wsa-4.cisco.com
+0 22 21 1030588 1 1334926299
+/
+baiduspider-123-125-71-13.crawl.baidu.com
+0 1 1 10267 1 1333593247
+/
+baiduspider-180-76-5-161.crawl.baidu.com
+0 1 1 26 1 1333793972
+/
+117.192.76.64
+0 1 1 26 1 1333742926
+/
+180-175227-188.rackcentre.redstation.net.uk
+0 1 1 9919 1 1334556115
+/
+79.97.104.2
+0 22 21 520813 1 1334173500
+/
+wi-in-f27.1e100.net
+0 1 1 1523 0 0
+-
+194.213.3.4
+0 34 32 1067590 1 1334826429
+/
+116.202.185.133
+0 30 27 630480 2 1333442814
+/
+baiduspider-220-181-108-122.crawl.baidu.com
+0 1 1 22106 1 1335052479
+/
+baiduspider-123-125-71-20.crawl.baidu.com
+0 2 1 10555 1 1334525827
+/
+baiduspider-180-76-5-172.crawl.baidu.com
+0 1 1 10267 1 1334256322
+/
+59.92.165.219
+0 20 19 1028483 1 1334817947
+/
+baiduspider-123-125-71-28.crawl.baidu.com
+0 2 1 310 1 1333705016
+/
+abts-kk-dynamic-215.13.172.122.airtelbroadband.in
+0 22 6 839090 1 1334745809
+/
+baiduspider-180-76-5-176.crawl.baidu.com
+0 1 1 10335 1 1334430427
+/
+static-144.1.96.14.tataidc.co.in
+0 200 183 5392034 7 1334771996
+/
+106.51.73.194
+0 22 21 520813 1 1334045786
+/
+115.241.30.133
+0 22 21 1030588 1 1335018958
+/
+203.171.222.5
+0 26 24 1056126 1 1334740925
+/
+117.192.253.128
+0 65 59 1585164 1 1334051298
+/
+wtp-gb-maya9.sjdc
+0 2 2 49400 1 1334140181
+/
+180.151.43.163
+0 20 19 518708 1 1333609338
+/
+abts-kk-dynamic-144.248.167.122.airtelbroadband.in
+0 22 21 520813 1 1333268631
+/
+baiduspider-123-125-71-31.crawl.baidu.com
+0 1 1 10267 1 1334190839
+/
+triband-mum-59.182.135.19.mtnl.net.in
+0 51 46 939856 1 1333371309
+/
+111.92.56.71
+0 9 9 134732 1 1334046682
+/
+baiduspider-180-76-5-183.crawl.baidu.com
+0 2 1 10617 1 1335182200
+/
+117.217.26.196
+0 57 51 975021 2 1333375827
+/
+static-1.223.99.14.tataidc.co.in
+0 8 7 159321 1 1335020223
+/
+117.192.11.164
+0 22 21 520813 1 1333295058
+/
+ee-in-f150.1e100.net
+0 1 1 10335 1 1334048674
+/
+117.213.181.106
+0 53 52 1087925 1 1333975949
+/
+144.36.206.78
+0 23 21 521115 1 1334064581
+/
+117.218.51.100
+0 22 21 1030588 1 1334676007
+/
+baiduspider-180-76-5-87.crawl.baidu.com
+0 1 0 288 0 0
+-
+baiduspider-123-125-71-46.crawl.baidu.com
+0 1 0 284 0 0
+-
+baiduspider-220-181-108-148.crawl.baidu.com
+0 1 1 13411 1 1333247999
+/
+baiduspider-180-76-5-194.crawl.baidu.com
+0 1 1 10267 1 1334083482
+/
+49.137.214.201
+0 22 21 520813 1 1334251090
+/
+121.245.134.162
+0 8 7 159327 1 1333445347
+/
+81.176.230.39
+0 2 2 20534 2 1333984899
+/
+abts-north-dynamic-250.71.161.122.airtelbroadband.in
+0 2 2 52 1 1333735955
+/
+101.63.129.192
+0 22 21 520813 1 1334546198
+/
+122.179.106.144
+0 22 21 520813 1 1334472623
+/
+baiduspider-180-76-5-90.crawl.baidu.com
+0 1 1 26 0 0
+-
+awbl96-239.qubee.com.bd
+0 31 25 543796 1 1333520352
+/
+223.227.217.97
+0 227 189 2410113 1 1334062266
+/
+117.206.32.48
+0 3 3 78 1 1333654663
+/
+117.192.17.213
+0 22 21 520813 1 1333386837
+/
+38.100.21.11
+0 10 10 105318 1 1334453496
+/
+116.203.167.229
+0 15 15 236652 1 1334825738
+/
+baiduspider-180-76-5-98.crawl.baidu.com
+0 1 0 284 0 0
+-
+abts-kk-dynamic-004.202.172.122.airtelbroadband.in
+0 26 24 574560 1 1333821172
+/
+spider-93-158-145-27.yandex.com
+0 62 48 543153 38 1335194015
+/
+59.92.105.101
+0 25 23 536028 1 1334489878
+/
+abts-kk-dynamic-033.213.172.122.airtelbroadband.in
+0 73 66 734902 1 1334661808
+/
+180.76.6.213
+0 1 0 284 0 0
+-
+static-0.72.99.14.tataidc.co.in
+0 3 3 78 1 1333709273
+/
+112.133.206.19
+0 1 1 26 1 1333656137
+/
+117.192.175.58
+0 24 22 1041219 1 1334824386
+/
+202.52.56.214
+0 22 21 520813 1 1333619728
+/
+abts-kk-dynamic-170.162.172.122.airtelbroadband.in
+0 23 22 525391 1 1333558001
+/
+baiduspider-220-181-108-162.crawl.baidu.com
+0 1 1 10261 1 1334671949
+/
+abts-kk-dynamic-071.70.167.122.airtelbroadband.in
+0 22 21 520813 1 1333994192
+/
+baiduspider-220-181-108-166.crawl.baidu.com
+0 1 1 10329 1 1335109229
+/
+out-sw245.tfbnw.net
+0 1 1 5599 0 0
+-
+180.76.6.225
+0 3 1 13983 1 1334301628
+/
+115.111.16.10.static-bangalore.vsnl.net.in
+0 20 19 518708 1 1334601502
+/
+msnbot-207-46-192-50.search.msn.com
+0 16 10 49798 8 1335217607
+/
+abts-kk-static-156.231.166.122.airtelbroadband.in
+0 23 22 525391 1 1333529529
+/
+baiduspider-220-181-108-173.crawl.baidu.com
+0 1 1 13411 1 1333523496
+/
+abts-north-dynamic-043.5.162.122.airtelbroadband.in
+0 24 4 35575 1 1335113240
+/
+220.181.51.107
+0 2 2 20602 2 1333861532
+/
+abts-north-dynamic-217.171.161.122.airtelbroadband.in
+0 22 21 520813 1 1333451294
+/
+220.181.51.108
+0 1 1 10261 1 1334700733
+/
+220.181.51.109
+0 2 2 20596 2 1334700733
+/
+118.100.237.77
+0 37 34 887134 1 1333307305
+/
+180.76.6.230
+0 1 1 10335 1 1333246825
+/
+180.76.6.233
+0 1 0 284 0 0
+-
+fulltextrobot-77-75-77-11.seznam.cz
+0 25 19 367336 6 1334926854
+/
+urlc4.mail.mud.yahoo.com
+0 6 6 61874 3 1333371509
+/
+ey-in-f103.1e100.net
+0 1 1 10335 1 1334067448
+/
+199.52.13.103
+0 22 21 520813 1 1334223758
+/
+220.181.51.110
+0 1 1 10335 1 1333491220
+/
+abts-kk-static-146.244.172.122.airtelbroadband.in
+0 10 10 204172 1 1333613043
+/
+ool-60390d5a.static.optonline.net
+0 44 40 948339 1 1333387704
+/
+ee-in-f156.1e100.net
+0 1 1 10329 1 1334750480
+/
+112-79-40-44.live.vodafone.in
+0 87 54 3236649 2 1333562826
+/
+77.242.201.57
+0 176 150 2646270 2 1333623949
+/
+112-79-45-208.live.vodafone.in
+0 6 2 52 1 1333736561
+/
+213.186.127.14.utel.net.ua
+0 2 2 20522 2 1335227271
+/
+117.230.235.84
+0 22 21 520813 1 1334645689
+/
+113.142.8.84
+0 6 6 128242 2 1333487009
+/
+123.236.219.26
+0 22 21 520813 1 1333628507
+/
+95.175.73.230
+0 2 2 52 1 1333784463
+/
+abts-kk-dynamic-121.5.172.122.airtelbroadband.in
+0 632 516 10856719 8 1334822834
+/
+122.172.162.247
+0 85 82 907887 2 1334667152
+/
+117.192.32.158
+0 86 78 967171 2 1334601774
+/
+122.175.18.150
+0 22 21 520813 1 1334518193
+/
+ee-in-f148.1e100.net
+0 1 1 10329 1 1334771167
+/
+113.142.8.94
+0 3 3 32486 1 1333407817
+/
+115.184.27.209
+0 36 33 562939 1 1333612313
+/
+static-185.185.97.14.tataidc.co.in
+0 3 2 52 1 1333741213
+/
+static-187.155.96.14.tataidc.co.in
+0 195 149 2315318 1 1333382602
+/
+abts-kk-dynamic-207.30.167.122.airtelbroadband.in
+0 22 21 520813 1 1333626801
+/
+static-250.229.98.14.tataidc.co.in
+0 23 22 525391 1 1333537017
+/
+115.241.94.2
+0 22 21 520813 1 1334525699
+/
+188.28.135.194.threembb.co.uk
+0 22 21 1030588 1 1334694922
+/
+abts-kk-dynamic-231.96.179.122.airtelbroadband.in
+0 38 35 900215 1 1333530871
+/
+2.25.146.5
+0 110 91 1252375 2 1334578165
+/
+static.230.73.46.78.clients.your-server.de
+0 1 1 10267 1 1334514406
+/
+fa-in-f16.1e100.net
+0 1 1 10329 1 1334953045
+/
+baiduspider-220-181-108-77.crawl.baidu.com
+0 1 1 10267 1 1334392489
+/
+38.111.147.83
+0 44 34 895542 3 1334836711
+/
+117.206.133.191
+0 9 9 196168 1 1333522344
+/
+abts-kk-dynamic-189.228.172.122.airtelbroadband.in
+0 22 21 520813 1 1333522763
+/
+117.192.206.77
+0 23 22 525391 1 1333377801
+/
+baiduspider-220-181-108-80.crawl.baidu.com
+0 3 2 10637 3 1334672124
+/
+iy-in-f92.1e100.net
+0 3 3 38464 1 1334593751
+/
+117.192.143.52
+0 49 47 1141560 1 1334896168
+/
+baiduspider-220-181-108-84.crawl.baidu.com
+0 1 1 10267 1 1334190875
+/
+fulltextrobot-77-75-77-17.seznam.cz
+0 44 33 587656 11 1335171803
+/
+baiduspider-220-181-108-88.crawl.baidu.com
+0 2 2 67278 1 1333523728
+/
+117.230.146.164
+0 81 22 1035166 1 1334942226
+/
+abts-kk-static-136.254.172.122.airtelbroadband.in
+0 23 22 525319 1 1333806150
+/
+abts-kk-static-233.244.172.122.airtelbroadband.in
+0 18 17 1024953 1 1334734376
+/
+122.167.249.246
+0 22 21 1030588 1 1335031634
+/
+112-79-40-48.live.vodafone.in
+0 2 2 9156 0 0
+-
+baiduspider-220-181-108-91.crawl.baidu.com
+0 3 3 24247 3 1334763830
+/
+117.192.36.15
+0 8 7 159321 1 1334825318
+/
+crawl-66-249-71-239.googlebot.com
+0 13 11 327628 3 1334739345
+/
+117.192.32.191
+0 22 21 520813 1 1333521503
+/
+iy-in-f84.1e100.net
+0 7 7 196845 1 1333960266
+/
+baiduspider-220-181-108-95.crawl.baidu.com
+0 1 1 10267 1 1333503410
+/
+fa-in-f19.1e100.net
+0 1 1 22174 1 1334958564
+/
+baiduspider-220-181-108-99.crawl.baidu.com
+0 1 1 20628 0 0
+-
+180.76.6.20
+0 2 2 20590 2 1335234528
+/
+180.76.6.28
+0 2 2 21603 2 1333528839
+/
+abts-tn-dynamic-007.14.164.122.airtelbroadband.in
+0 16 16 323345 1 1333522851
+/
+180.76.6.29
+0 1 0 284 0 0
+-
+iy-in-f95.1e100.net
+0 2 2 52413 2 1334063701
+/
+abts-tn-dynamic-197.112.174.122.airtelbroadband.in
+0 22 21 520813 1 1333466069
+/
+zebra946.startdedicated.com
+0 2 2 10293 2 1333690302
+/
+50-57-64-198.static.cloud-ips.com
+0 1 1 10329 1 1335008279
+/
+69.171.242.251
+0 1 1 5599 0 0
+-
+180.76.6.36
+0 3 3 30999 3 1335097193
+/
+203.77.203.203
+0 23 22 525391 1 1334156842
+/
+abts-kk-dynamic-237.163.166.122.airtelbroadband.in
+0 2517 1672 29875056 20 1334657039
+/
+2.50.12.60
+0 22 21 1030588 1 1335190908
+/
+wtp-gs-maya6.sjdc
+0 7 6 155246 1 1334218018
+/
+106.77.0.86
+0 37 36 1057525 1 1334041860
+/
+122.163.209.59
+0 40 36 912091 1 1334475595
+/
+2021ob.scansafe.net
+0 1 1 10335 1 1334133977
+/
+iy-in-f87.1e100.net
+0 2 2 15928 1 1335217039
+/
+baiduspider-180-76-5-139.crawl.baidu.com
+0 1 1 26 0 0
+-
+59.164.97.62.man-dynamic.vsnl.net.in
+0 32 31 996983 1 1333396235
+/
+117.192.213.248
+0 22 21 520813 1 1334405554
+/
+206.83.86.2.ptr.us.xo.net
+0 2 2 52 1 1333728705
+/
+117.193.229.39
+0 41 39 1019836 1 1333585656
+/
+iy-in-f98.1e100.net
+0 3 3 12682 1 1334235594
+/
+117.207.37.62
+0 22 21 520813 1 1333285863
+/
+49.249.117.103
+0 2 2 20658 1 1334774701
+/
+106.197.4.154
+0 117 90 828885 1 1334067522
+/
+abts-kk-dynamic-042.69.179.122.airtelbroadband.in
+0 50 42 1131902 1 1333320715
+/
+baiduspider-220-181-108-103.crawl.baidu.com
+0 1 0 282 1 1334671955
+-
+baiduspider-220-181-108-107.crawl.baidu.com
+0 1 1 9845 1 1334671942
+/
+wtp-g3-maya6.sjdc
+0 5 5 137449 3 1334149773
+/
+we-in-f90.1e100.net
+0 2 2 4740 0 0
+-
+baiduspider-180-76-5-153.crawl.baidu.com
+0 1 1 26 1 1333651472
+/
+cbf02m01-in-f91.1e100.net
+0 1 1 10335 1 1333452592
+/
+crawl-66-249-66-108.googlebot.com
+0 9 6 22506 5 1335089931
+/
+117.192.42.4
+0 168 101 1958772 1 1334720942
+/
+cdc-fw.cvgs.net
+0 3 2 52 1 1333742913
+/
+101.63.209.152
+0 21 20 1029764 1 1334812397
+/
+baiduspider-123-125-71-12.crawl.baidu.com
+0 1 1 10267 1 1334547850
+/
+baiduspider-180-76-5-53.crawl.baidu.com
+0 2 2 20602 2 1334452147
+/
+static-110.181.96.14.tataidc.co.in
+0 30 26 1068815 1 1334914573
+/
+abts-kk-dynamic-039.33.179.122.airtelbroadband.in
+0 22 21 520813 1 1334168555
+/
+baiduspider-123-125-71-16.crawl.baidu.com
+0 1 1 10261 1 1334835310
+/
+triband-mum-59.183.156.244.mtnl.net.in
+0 65 55 1164065 1 1333814768
+/
+we-in-f82.1e100.net
+0 2 2 12793 1 1334952460
+/
+122.179.40.132
+0 21 20 1029764 1 1335002180
+/
+116.202.154.205
+0 22 21 520813 1 1333954102
+/
+static-218.81.99.14.tataidc.co.in
+0 22 21 520813 1 1334219267
+/
+baiduspider-123-125-71-23.crawl.baidu.com
+0 1 0 288 0 0
+-
+static-66.43.96.14.tataidc.co.in
+0 72 5 67219 1 1334256096
+/
+ecoprobe-dmz.gns.novell.com
+0 44 42 1041626 2 1333632013
+/
+baiduspider-123-125-71-27.crawl.baidu.com
+0 1 1 10267 1 1333964281
+/
+we-in-f93.1e100.net
+0 3 3 309478 1 1334813146
+/
+msnbot-207-46-199-167.search.msn.com
+0 3 2 69455 1 1335032584
+/
+202.43.67.26
+0 1 1 26 1 1333709343
+/
+segment-119-226.sify.net
+0 28 26 650327 1 1333540167
+/
+117.192.136.129
+0 33 31 873153 1 1333909098
+/
+208.115.113.88
+0 10 5 57389 5 1334765965
+/
+baiduspider-123-125-71-30.crawl.baidu.com
+0 2 2 70441 1 1333791417
+/
+117.241.216.115
+0 34 32 877731 1 1333467412
+/
+223.228.91.47
+0 1 0 540 1 1333561016
+/
+abts-kk-dynamic-176.171.167.122.airtelbroadband.in
+0 22 21 520813 1 1334478184
+/
+ec2-204-236-195-101.compute-1.amazonaws.com
+0 1 1 10335 1 1333372463
+/
+wi-in-f22.1e100.net
+0 2 2 2995 0 0
+-
+115.249.98.205
+0 19 19 288528 1 1333538955
+/
+we-in-f85.1e100.net
+0 1 1 2464 0 0
+-
+pz-in-f82.1e100.net
+0 3 0 867 0 0
+-
+abts-north-dynamic-204.250.68.182.airtelbroadband.in
+0 54 48 980169 1 1334131449
+/
+abs-static-254.45.68.58.aircel.co.in
+0 25 24 542757 1 1334055767
+/
+59.92.128.68
+0 22 21 520813 1 1334326773
+/
+116.202.132.71
+0 37 34 1405400 1 1335243019
+/
+baiduspider-123-125-71-45.crawl.baidu.com
+0 1 0 288 0 0
+-
+baiduspider-220-181-108-147.crawl.baidu.com
+0 2 2 11784 1 1335134078
+/
+abts-kk-dynamic-013.52.179.122.airtelbroadband.in
+0 34 32 877731 1 1333357915
+/
+113.19.232.19
+0 160 112 3218810 2 1334654163
+/
+ras.beamtele.net
+0 129 123 3066737 5 1334109445
+/
+baiduspider-180-76-5-197.crawl.baidu.com
+0 1 1 10267 1 1334537053
+/
+abts-kk-static-157.228.178.122.airtelbroadband.in
+0 52 46 1053113 1 1333545680
+/
+insmtp.nds.com
+0 22 21 520813 1 1333534736
+/
+abts-kk-dynamic-019.6.167.122.airtelbroadband.in
+0 22 21 1030588 1 1335183355
+/
+202.71.139.136
+0 163 144 2138480 1 1334221065
+/
+abts-north-dynamic-188.226.161.122.airtelbroadband.in
+0 22 21 520813 1 1333965750
+/
+baiduspider-180-76-5-93.crawl.baidu.com
+0 2 2 20602 2 1334040392
+/
+baiduspider-180-76-5-97.crawl.baidu.com
+0 1 0 284 0 0
+-
+202.46.55.174
+0 1 1 10796 1 1335175728
+/
+202.128.96.225
+0 23 22 521879 1 1333955827
+/
+101.63.182.42
+0 22 21 1030588 1 1334736256
+/
+baiduspider-123-125-71-113.crawl.baidu.com
+0 1 0 288 0 0
+-
+wi-in-f25.1e100.net
+0 1 1 125201 0 0
+-
+we-in-f88.1e100.net
+0 2 2 386097 0 0
+-
+baiduspider-123-125-71-117.crawl.baidu.com
+0 1 0 284 0 0
+-
+baiduspider-220-181-108-161.crawl.baidu.com
+0 1 1 10267 1 1333365102
+/
+baiduspider-220-181-108-165.crawl.baidu.com
+0 2 2 20670 2 1333821102
+/
+baiduspider-220-181-108-169.crawl.baidu.com
+0 1 1 10335 1 1334414739
+/
+abts-kk-dynamic-037.31.172.122.airtelbroadband.in
+0 297 186 2742075 1 1334510730
+/
+117.192.201.11
+0 66 61 1104764 1 1333534104
+/
+112-79-40-3.live.vodafone.in
+0 6 3 52134 1 1335085297
+/
+static-117.203.99.14.tataidc.co.in
+0 15 15 390 1 1333730030
+/
+wi-in-f17.1e100.net
+0 1 1 5599 0 0
+-
+59.164.186.212.man-dynamic.vsnl.net.in
+0 20 19 1028483 1 1334669605
+/
+baiduspider-123-125-71-74.crawl.baidu.com
+0 1 0 284 0 0
+-
+baiduspider-220-181-108-176.crawl.baidu.com
+0 1 1 10267 1 1333820919
+/
+59.90.233.54
+0 8 7 159327 1 1333363712
+/
+223.228.242.239
+0 22 21 520813 1 1333396449
+/
+27.97.225.189
+0 2 1 11808 1 1334069820
+/
+117.192.233.234
+0 22 21 1030588 1 1335165606
+/
+ec2-174-129-66-133.compute-1.amazonaws.com
+0 1 1 4578 0 0
+-
+msnbot-207-46-199-172.search.msn.com
+0 3 2 175763 1 1334205143
+/
+115.184.136.187
+0 16 15 1017381 1 1334751999
+/
+abts-ap-dynamic-121.233.169.122.airtelbroadband.in
+0 50 46 941290 1 1334038326
+/
+117.192.147.169
+0 32 31 872613 1 1334342102
+/
+abts-kk-static-228.54.166.122.airtelbroadband.in
+0 22 21 520813 1 1333371579
+/
+baiduspider-220-181-108-183.crawl.baidu.com
+0 1 1 20628 0 0
+-
+baiduspider-123-125-71-81.crawl.baidu.com
+0 1 0 284 0 0
+-
+114.30.76.130
+0 2 2 52 1 1333794416
+/
+abts-kk-dynamic-070.199.167.122.airtelbroadband.in
+0 8 7 159327 1 1334037138
+/
+115.241.79.58
+0 20 19 518708 1 1333304464
+/
+117.206.35.9
+0 13 13 231969 1 1334145507
+/
+pz-in-f99.1e100.net
+0 1 0 289 0 0
+-
+27.34.246.34
+0 19 18 517642 1 1333963238
+/
+115.241.21.249
+0 18 17 515178 1 1333386794
+/
+abts-north-dynamic-136.146.162.122.airtelbroadband.in
+0 25 24 1064787 1 1335108518
+/
+27.116.49.32
+0 8 7 159321 1 1335008279
+/
+baiduspider-123-125-71-96.crawl.baidu.com
+0 1 0 288 0 0
+-
+ban-static-211-179.196.203.direct.net.in
+0 22 22 867202 1 1333529349
+/
+59.96.40.6
+0 7 2 22535 1 1334037010
+/
+101.63.182.82
+0 22 21 520813 1 1333891631
+/
+abts-kk-dynamic-160.199.167.122.airtelbroadband.in
+0 261 209 5946360 1 1335182170
+/
+abts-kk-dynamic-093.222.167.122.airtelbroadband.in
+0 51 47 952379 1 1333630371
+/
+181-175227-188.rackcentre.redstation.net.uk
+0 1 1 9913 1 1334943383
+/
+abts-tn-dynamic-053.169.164.122.airtelbroadband.in
+0 1 1 26 1 1333693382
+/
+38.127.197.91
+0 11 8 271959 2 1334364767
+/
+117.214.21.55
+0 23 22 525391 1 1334059658
+/
+114-27-197-59.dynamic.hinet.net
+0 1 0 289 0 0
+-
+msnbot-207-46-13-99.search.msn.com
+0 23 12 162345 12 1335176120
+/
+pm79.internetseer.com
+0 98 98 0 98 1335245314
+/
+abts-kk-dynamic-234.2.167.122.airtelbroadband.in
+0 20 19 1028483 1 1334737234
+/
+abts-kk-dynamic-101.205.172.122.airtelbroadband.in
+0 63 56 1612334 1 1334758226
+/
+crawl15.exabot.com
+0 10 5 83350 5 1334993816
+/
+s21-14.opera-mini.net
+0 38 33 811589 1 1333453174
+/
+abts-kk-dynamic-005.30.172.122.airtelbroadband.in
+0 91 81 1690708 1 1333899038
+/
+101.63.184.33
+0 3 0 0 1 1333651137
+/
+baiduspider-220-181-108-76.crawl.baidu.com
+0 1 1 10267 1 1334291601
+/
+117.192.51.69
+0 23 22 525391 1 1333806653
+/
+lwdc.br05.gi9-48.host4.24187.americanis.net
+0 1 1 10335 1 1333454472
+/
+abts-kk-static-017.233.166.122.airtelbroadband.in
+0 22 21 1030588 1 1334752231
+/
+abts-kk-static-164.102.166.122.airtelbroadband.in
+0 33 31 1382922 1 1335168907
+/
+abts-kk-dynamic-130.25.167.122.airtelbroadband.in
+0 8 7 159327 1 1333455724
+/
+59.165.96.90.static-bangalore.vsnl.net.in
+0 37 34 573036 1 1333535456
+/
+189.red-217-126-72.staticip.rima-tde.net
+0 33 31 1401572 1 1335194458
+/
+abts-kk-dynamic-180.218.167.122.airtelbroadband.in
+0 99 88 1656908 3 1333472232
+/
+msnbot-207-46-13-117.search.msn.com
+0 2 1 39429 1 1334769164
+/
+static-216.53.97.14.tataidc.co.in
+0 10 10 204172 1 1333857396
+/
+59.92.206.103
+0 7 6 134723 1 1334818201
+/
+msnbot-65-52-109-199.search.msn.com
+0 2 0 568 0 0
+-
+59.97.40.55
+0 39 38 974829 1 1333258526
+/
+202.91.136.71
+0 44 42 1551401 2 1335172186
+/
+baiduspider-220-181-108-90.crawl.baidu.com
+0 1 1 11268 1 1333523955
+/
+abts-kk-dynamic-096.225.172.122.airtelbroadband.in
+0 37 36 914395 1 1334417594
+/
+baiduspider-220-181-108-94.crawl.baidu.com
+0 2 2 20528 2 1334662796
+/
+fip3c250.banglalionwimax.com
+0 35 34 971929 1 1333374572
+/
+117.192.206.110
+0 22 21 520813 1 1333372361
+/
+static-78.137.97.14.tataidc.co.in
+0 24 22 413597 1 1334923668
+/
+iad1-wtp-gd-maya7.sdi.trendnet.org
+0 5 4 68036 1 1333961564
+/
+fa-in-f22.1e100.net
+0 1 1 10329 1 1334953575
+/
+59.97.120.249
+0 2 2 52 1 1333649603
+/
+abts-kk-dynamic-118.63.179.122.airtelbroadband.in
+0 22 21 520813 1 1333365821
+/
+202.46.52.135
+0 1 1 22106 1 1335175723
+/
+65.52.245.91
+0 2 2 20534 2 1333472705
+/
+144.187.148.25
+0 18 16 517857 1 1333454472
+/
+ec2-174-129-94-125.compute-1.amazonaws.com
+0 2 1 10551 1 1333481390
+/
+59.160.207.20.ill-bgl.static.vsnl.net.in
+0 22 21 1030588 1 1334824748
+/
+abts-kk-dynamic-091.43.172.122.airtelbroadband.in
+0 27 24 1056428 1 1334844867
+/
+59.92.133.39
+0 28 27 527827 1 1334235214
+/
+abts-kk-dynamic-204.46.172.122.airtelbroadband.in
+0 22 21 520813 1 1334165477
+/
+msnbot-65-52-109-146.search.msn.com
+0 2 1 13767 1 1333405934
+/
+baiduspider-180-76-5-138.crawl.baidu.com
+0 1 0 288 0 0
+-
+50.97.98.130-static.reverse.softlayer.com
+0 1 1 39065 1 1333374390
+/
+202.46.55.26
+0 1 1 10880 1 1335175723
+/
+116.231.238.185
+0 1 1 10312 1 1334723765
+/
+abts-kk-dynamic-057.127.167.122.airtelbroadband.in
+0 23 22 525391 1 1334320336
+/
+abts-kk-dynamic-112.99.179.122.airtelbroadband.in
+0 39 38 974829 1 1334596977
+/
+112-79-40-95.live.vodafone.in
+0 22 21 520813 1 1334575656
+/
+iy-in-f90.1e100.net
+0 1 1 63068 0 0
+-
+38.127.197.112
+0 1 0 543 1 1333373655
+/
+202.46.53.93
+0 1 1 41149 1 1334125729
+/
+baiduspider-180-76-5-149.crawl.baidu.com
+0 1 1 10329 1 1334949095
+/
+117.192.253.218
+0 24 22 1041219 1 1334863860
+/
+209.120.218.193
+0 9 9 334612 1 1333368791
+/
+115.241.109.232
+0 4 2 52 1 1333650513
+/
+pg-sng-px1.pg.com
+0 49 48 1159959 1 1333454790
+/
+out.lb01.02.ash2.tfbnw.net
+0 1 1 5599 0 0
+-
+112-79-45-127.live.vodafone.in
+0 1 0 0 0 0
+-
+abts-kk-dynamic-212.23.172.122.airtelbroadband.in
+0 22 21 520813 1 1334055553
+/
+baiduspider-180-76-5-49.crawl.baidu.com
+0 1 0 284 0 0
+-
+iy-in-f82.1e100.net
+0 1 1 1432 0 0
+-
+38.127.197.124
+0 1 0 543 1 1334148497
+/
+fa-in-f17.1e100.net
+0 2 2 32503 2 1335113533
+/
+segment-124-30.sify.net
+0 39 34 1406004 1 1335189455
+/
+util2.beta.gist.com
+0 2 2 20534 1 1333371681
+/
+static-176.208.99.14.tataidc.co.in
+0 10 10 176648 1 1333433374
+/
+202.46.58.207
+0 1 1 22174 1 1335175723
+/
+abs-static-34.129.102.118.aircel.co.in
+0 15 15 276814 1 1334067199
+/
+baiduspider-180-76-5-52.crawl.baidu.com
+0 3 2 21875 2 1335212928
+/
+baiduspider-180-76-5-56.crawl.baidu.com
+0 1 0 288 0 0
+-
+baiduspider-180-76-5-163.crawl.baidu.com
+0 1 1 10267 1 1333592793
+/
+iy-in-f93.1e100.net
+0 1 1 10335 1 1333386181
+/
+117.192.60.173
+0 74 66 1169476 1 1333368915
+/
+cw01.swebot-crawler.net
+0 2 2 52 1 1333753611
+/
+103.246.38.196
+0 4 4 71003 3 1334220317
+/
+urlc2.mail.mud.yahoo.com
+0 2 2 20670 1 1334392647
+/
+fip31c71.banglalionwimax.com
+0 36 35 1015447 1 1333453045
+/
+db2.sitealytics.com
+0 1 1 10267 1 1334137985
+/
+abts-tn-dynamic-187.53.174.122.airtelbroadband.in
+0 26 24 543297 1 1334325459
+/
+117.192.38.8
+0 3 3 78 1 1333651469
+/
+baiduspider-123-125-71-22.crawl.baidu.com
+0 3 3 30789 3 1334666154
+/
+baiduspider-180-76-5-67.crawl.baidu.com
+0 1 1 11262 1 1334970723
+/
+117.192.111.181
+0 2 0 574 0 0
+-
+msnbot-207-46-13-100.search.msn.com
+0 2 1 11174 1 1333563393
+/
+59.164.97.4.man-dynamic.vsnl.net.in
+0 51 47 1032280 1 1334064436
+/
+abts-kk-dynamic-220.100.167.122.airtelbroadband.in
+0 62 59 1625218 2 1333602423
+/
+103.4.124.12
+0 44 42 1041626 2 1334305335
+/
+iy-in-f96.1e100.net
+0 3 3 23437 2 1333475793
+/
+baiduspider-180-76-5-189.crawl.baidu.com
+0 1 1 10335 1 1333550448
+/
+static-117.176.99.14.tataidc.co.in
+0 22 21 520813 1 1334605223
+/
+qa-in-f43.1e100.net
+0 1 1 10335 1 1333456814
+/
+117.213.181.38
+0 34 32 1008608 1 1334514618
+/
+fwsm-203-193-114-72.hongs.sg.alter.net
+0 6 5 125562 1 1333450383
+/
+abts-kk-dynamic-053.39.172.122.airtelbroadband.in
+0 396 346 5680878 11 1333440997
+-
+baiduspider-220-181-108-142.crawl.baidu.com
+0 1 1 11262 1 1334671947
+/
+baiduspider-123-125-71-44.crawl.baidu.com
+0 1 0 288 0 0
+-
+106.208.60.24
+0 22 21 520813 1 1333548682
+/
+27.7.17.4
+0 22 21 1030588 1 1335179494
+/
+59.161.120.28.cdma-delhi.vsnl.net.in
+0 38 35 900215 1 1334142221
+/
+baiduspider-180-76-5-192.crawl.baidu.com
+0 1 1 41073 1 1333894061
+/
+baiduspider-123-125-71-48.crawl.baidu.com
+0 1 0 288 0 0
+-
+baiduspider-180-76-5-196.crawl.baidu.com
+0 1 1 10335 1 1333550449
+/
+183.177.126.184
+0 25 24 1052526 1 1334828580
+/
+115.241.60.84
+0 22 21 520813 1 1333470573
+/
+baiduspider-123-125-71-101.crawl.baidu.com
+0 1 0 284 0 0
+-
+iy-in-f88.1e100.net
+0 2 2 4277 0 0
+-
+213.186.127.4.utel.net.ua
+0 11 9 142712 9 1334706989
+/
+106.66.77.104
+0 32 31 872613 1 1334269305
+/
+baiduspider-180-76-5-92.crawl.baidu.com
+0 1 1 8266 1 1333945471
+/
+abts-kk-dynamic-247.9.172.122.airtelbroadband.in
+0 204 169 1701008 1 1334597844
+/
+baiduspider-123-125-71-55.crawl.baidu.com
+0 2 0 572 0 0
+-
+baiduspider-220-181-108-157.crawl.baidu.com
+0 1 1 10329 1 1334763841
+/
+we-in-f80.1e100.net
+0 1 1 10335 1 1334046115
+/
+194.8.253.20
+0 243 1 84812 1 1334257947
+/
+abts-kk-dynamic-173.0.172.122.airtelbroadband.in
+0 144 66 1497962 2 1335206836
+/
+iy-in-f99.1e100.net
+0 2 2 81020 0 0
+-
+93-186-23-83.rdns.blackberry.net
+0 1 1 10335 1 1333532664
+/
+110.172.141.27
+0 23 22 525391 1 1333975390
+/
+abts-kk-dynamic-243.116.167.122.airtelbroadband.in
+0 23 22 525391 1 1333443338
+/
+static-228.41.99.14.tataidc.co.in
+0 22 21 520813 1 1333526741
+/
+121.241.198.10.static-bangalore.vsnl.net.in
+0 21 20 523286 1 1333455615
+/
+abts-tn-dynamic-207.43.174.122.airtelbroadband.in
+0 22 21 520813 1 1333377447
+/
+abts-kk-dynamic-203.44.172.122.airtelbroadband.in
+0 1 1 26 1 1333779720
+/
+we-in-f91.1e100.net
+0 1 1 173948 0 0
+-
+117.192.21.67
+0 46 43 2215191 1 1334762259
+/
+dsl-mum-static-ilp-082.0.182.122.airtelbroadband.in
+0 7 6 150160 1 1333452304
+/
+abts-kk-static-214.236.178.122.airtelbroadband.in
+0 2 2 52 1 1333742706
+/
+117.192.80.128
+0 22 21 1030588 1 1334759047
+/
+59.95.203.67
+0 22 21 1030588 1 1334688529
+/
+baiduspider-220-181-108-171.crawl.baidu.com
+0 1 1 10261 1 1334671951
+/
+27.49.42.124
+0 1 1 26 1 1333654556
+/
+115.242.238.134
+0 22 21 1030588 1 1335165512
+/
+59.92.169.65
+0 22 21 520813 1 1334070541
+/
+abts-kk-dynamic-016.149.166.122.airtelbroadband.in
+0 22 21 520813 1 1333971659
+/
+baiduspider-220-181-108-179.crawl.baidu.com
+0 1 1 10267 1 1333522604
+/
+abts-north-dynamic-083.234.161.122.airtelbroadband.in
+0 5 4 104 1 1333763663
+/
+117.192.43.97
+0 138 107 1375510 1 1333970427
+/
+abts-north-dynamic-194.65.162.122.airtelbroadband.in
+0 4 2 21262 1 1335113160
+/
+pz-in-f80.1e100.net
+0 1 0 289 0 0
+-
+113.21.78.65
+0 20 19 520673 1 1333557954
+/
+xena.asysijd.cz
+0 40 0 11640 4 1334844516
+-
+ec2-184-73-1-190.compute-1.amazonaws.com
+0 11 10 136994 1 1333630077
+/
+static-246.161.96.14.tataidc.co.in
+0 1 1 26 1 1333785554
+/
+135.245.168.36
+0 44 37 934236 1 1333535151
+/
+170.148.132.135
+0 24 22 525693 1 1333377880
+/
+abts-kk-static-122.227.166.122.airtelbroadband.in
+0 22 21 520813 1 1334571258
+/
+213.186.127.9.utel.net.ua
+0 2 0 572 0 0
+-
+bgl11-dmz-wsa-2.cisco.com
+0 22 21 1030588 1 1334736434
+/
+116-214-28-180.del.tulipconnect.com
+0 10 10 204172 1 1333535863
+/
+59.96.46.146
+0 2 2 52 1 1333688768
+/
+ec2-107-22-71-208.compute-1.amazonaws.com
+0 11 11 118625 1 1333467518
+/
+abts-kk-dynamic-019.24.172.122.airtelbroadband.in
+0 33 31 873153 1 1333984372
+/
+117.192.198.87
+0 36 27 616368 1 1333462123
+/
+wi-in-f23.1e100.net
+0 1 1 26606 0 0
+-
+we-in-f86.1e100.net
+0 4 4 263645 0 0
+-
+pz-in-f83.1e100.net
+0 1 0 289 0 0
+-
+abts-kk-static-223.44.166.122.airtelbroadband.in
+0 22 21 520813 1 1334314054
+/
+abts-kk-dynamic-175.171.172.122.airtelbroadband.in
+0 27 25 560136 1 1334418794
+/
+abts-kk-dynamic-195.171.172.122.airtelbroadband.in
+0 39 38 755003 3 1333791767
+/
+106.51.4.169
+0 22 21 520813 1 1334236614
+/
+117.192.4.224
+0 3 3 34205 1 1334070485
+/
+wtp-gb-maya4.sjdc
+0 11 11 326024 3 1335183636
+/
+abts-kk-dynamic-185.203.178.122.airtelbroadband.in
+0 22 21 520813 1 1334322942
+/
+abts-kk-dynamic-111.92.167.122.airtelbroadband.in
+0 6 5 125562 1 1334059469
+/
+abts-kk-dynamic-068.4.171.122.airtelbroadband.in
+0 5 4 104 1 1333701318
+/
+abts-kk-dynamic-086.0.167.122.airtelbroadband.in
+0 22 21 520813 1 1333643224
+/
+116.73.113.96
+0 47 44 946310 1 1333536026
+/
+41-218-224-170-adsl-dyn.4u.com.gh
+0 33 31 873153 1 1334023520
+/
+baiduspider-220-181-108-75.crawl.baidu.com
+0 2 2 20596 2 1335028695
+/
+abts-kk-dynamic-251.11.167.122.airtelbroadband.in
+0 7 6 805231 1 1335207007
+/
+static-13.31.99.14.tataidc.co.in
+0 10 9 281233 1 1333856992
+/
+crawl-66-249-72-18.googlebot.com
+0 2 1 10617 1 1334926636
+/
+64.38.116.99
+0 3 3 59723 1 1334757559
+/
+69.171.228.248
+0 1 1 58838 0 0
+-
+baiduspider-220-181-108-82.crawl.baidu.com
+0 2 2 11784 1 1334749035
+/
+baiduspider-180-76-5-100.crawl.baidu.com
+0 1 0 288 0 0
+-
+baiduspider-220-181-108-86.crawl.baidu.com
+0 1 1 10267 1 1334525871
+/
+wi-in-f26.1e100.net
+0 3 3 154974 1 1334815329
+/
+crawl-66-249-67-217.googlebot.com
+0 4 3 37389 2 1333942820
+/
+we-in-f89.1e100.net
+0 3 3 11593 0 0
+-
+221-134-118-194.sify.net
+0 50 46 924234 1 1334130900
+/
+69.171.228.251
+0 1 1 10335 1 1333820994
+/
+dsl-ncr-dynamic-011.95.16.125.airtelbroadband.in
+0 23 22 525391 1 1333550229
+/
+baiduspider-220-181-108-93.crawl.baidu.com
+0 2 2 52 2 1333791463
+/
+baiduspider-220-181-108-97.crawl.baidu.com
+0 1 1 10267 1 1334547890
+/
+unassigned-87.236.194.78.coolhousing.net
+0 2 1 10623 1 1333512272
+/
+abts-tn-dynamic-121.161.174.122.airtelbroadband.in
+0 67 60 1130189 1 1333549717
+/
+static-227.103.200.49.tataidc.co.in
+0 12 12 496096 1 1334776906
+/
+msnbot-65-52-110-17.search.msn.com
+0 6 3 25338 3 1334880832
+/
+117.192.90.142
+0 22 21 520813 1 1333266837
+/
+117.195.41.72
+0 41 36 692783 1 1333358394
+/
+urlc6.mail.mud.yahoo.com
+0 3 3 30801 2 1333615138
+/
+117.192.250.236
+0 22 21 520813 1 1333476262
+/
+pz-in-f89.1e100.net
+0 1 0 289 0 0
+-
+abts-kk-dynamic-224.209.178.122.airtelbroadband.in
+0 56 48 1650459 1 1334899548
+/
+ww-in-f92.1e100.net
+0 1 1 10335 1 1333810602
+/
+117.192.229.92
+0 22 21 520813 1 1333438645
+/
+h-252-148.scoutjet.com
+0 1 0 288 0 0
+-
+abts-north-dynamic-181.14.177.122.airtelbroadband.in
+0 19 18 517642 1 1334612833
+/
+192.55.79.164
+0 18 17 424015 0 0
+-
+abts-kk-dynamic-224.166.172.122.airtelbroadband.in
+0 22 21 1030588 1 1335087625
+/
+baiduspider-180-76-5-137.crawl.baidu.com
+0 1 0 288 0 0
+-
+urlc1.mail.mud.yahoo.com
+0 6 6 61726 3 1334804424
+/
+ee-in-f160.1e100.net
+0 2 2 20658 1 1334748550
+/
+msnbot-207-46-12-66.search.msn.com
+0 8 7 159327 1 1333402756
+/
+abts-north-dynamic-120.218.161.122.airtelbroadband.in
+0 33 32 557281 1 1333962624
+/
+abts-kk-dynamic-003.12.167.122.airtelbroadband.in
+0 32 31 1382382 1 1334674013
+/
+triband-mum-120.62.172.109.mtnl.net.in
+0 69 58 1134345 1 1333962845
+/
+112-79-40-83.live.vodafone.in
+0 19 11 277243 1 1333278052
+/
+crawl-66-249-72-244.googlebot.com
+0 2 0 568 0 0
+-
+baiduspider-180-76-5-140.crawl.baidu.com
+0 1 0 288 0 0
+-
+122.248.176.193
+0 67 64 2076792 3 1334741714
+/
+abts-kk-dynamic-240.14.172.122.airtelbroadband.in
+0 22 21 520813 1 1333449020
+/
+59.92.159.242
+0 96 28 502494 1 1333955051
+/
+www.whois.sc
+0 2 1 10617 1 1335014231
+/
+baiduspider-180-76-5-151.crawl.baidu.com
+0 1 1 8068 1 1333339804
+/
+abts-kk-dynamic-002.250.167.122.airtelbroadband.in
+0 1 1 26 1 1333699539
+/
+baiduspider-220-181-108-109.crawl.baidu.com
+0 1 1 1432 0 0
+-
+baiduspider-180-76-5-48.crawl.baidu.com
+0 2 0 572 0 0
+-
+baiduspider-180-76-5-155.crawl.baidu.com
+0 1 1 10335 1 1334362767
+/
+122.167.77.89
+0 22 21 520813 1 1334486130
+/
+abts-kk-dynamic-193.250.167.122.airtelbroadband.in
+0 24 22 531450 1 1334575026
+/
+117.192.94.38
+0 22 21 520813 1 1334562329
+/
+abts-mum-dynamic-244.3.169.122.airtelbroadband.in
+0 2 2 52 1 1333710914
+/
+117.241.3.188
+0 50 47 960956 1 1333457123
+/
+abts-kk-dynamic-082.96.167.122.airtelbroadband.in
+0 22 21 1030588 1 1335167143
+/
+baiduspider-180-76-5-51.crawl.baidu.com
+0 1 1 11336 1 1333282038
+/
+baiduspider-220-181-108-112.crawl.baidu.com
+0 1 1 20628 0 0
+-
+abts-kk-dynamic-226.34.167.122.airtelbroadband.in
+0 22 21 520813 1 1334055267
+/
+baiduspider-123-125-71-14.crawl.baidu.com
+0 1 1 10261 1 1334752462
+/
+baiduspider-180-76-5-162.crawl.baidu.com
+0 2 1 310 1 1333756307
+/
+baiduspider-180-76-5-59.crawl.baidu.com
+0 1 1 10335 1 1333426601
+/
+abts-north-dynamic-159.38.163.122.airtelbroadband.in
+0 64 54 1114161 2 1333397057
+/
+106.77.191.52
+0 20 19 1028483 1 1334916201
+/
+ec2-204-236-235-245.compute-1.amazonaws.com
+0 8 5 55988 2 1334396226
+/
+122.162.62.9
+0 23 22 1035166 1 1335042693
+/
+117.207.194.90
+0 3 3 78 1 1333799325
+/
+host-18045250.fivenetwork.com
+0 9 8 169662 1 1334221845
+/
+baiduspider-220-181-108-123.crawl.baidu.com
+0 1 1 22112 1 1333524185
+/
+117.192.209.54
+0 22 21 520813 1 1333999911
+/
+abts-kk-dynamic-113.74.179.122.airtelbroadband.in
+0 27 26 1161450 1 1334943475
+/
+baiduspider-123-125-71-25.crawl.baidu.com
+0 2 2 10293 1 1334392453
+/
+102.74.116.118.hathway.com
+0 22 21 520813 1 1333316659
+/
+117.201.177.26
+0 35 32 695630 1 1333615453
+/
+static-176.134.96.14.tataidc.co.in
+0 22 21 520813 1 1334253426
+/
+abts-kk-dynamic-106.71.167.122.airtelbroadband.in
+0 22 21 520813 1 1334396774
+/
+baiduspider-180-76-5-177.crawl.baidu.com
+0 1 0 284 0 0
+-
+51ob.scansafe.net
+0 22 21 520813 1 1334304142
+/
+106.51.64.124
+0 33 31 873153 1 1334526336
+/
+223.228.244.153
+0 1 1 10329 1 1334822774
+/
+abts-kk-dynamic-196.69.179.122.airtelbroadband.in
+0 22 21 520813 1 1333825833
+/
+msnbot-157-55-16-86.search.msn.com
+0 6 3 34872 3 1334390315
+/
+abts-kk-dynamic-191.170.172.122.airtelbroadband.in
+0 24 22 531450 2 1333826644
+/
+115.242.236.179
+0 22 21 1030588 1 1334930976
+/
+aes-static-064.97.22.125.airtel.in
+0 24 22 525693 1 1334333048
+/
+baiduspider-180-76-5-180.crawl.baidu.com
+0 1 1 10267 1 1333939439
+/
+baiduspider-123-125-71-36.crawl.baidu.com
+0 3 3 30795 3 1335076384
+/
+baiduspider-180-76-5-184.crawl.baidu.com
+0 1 1 41149 1 1333374324
+/
+baiduspider-180-76-5-188.crawl.baidu.com
+0 1 1 10267 1 1334515546
+/
+122.172.6.130
+0 22 21 520813 1 1334521508
+/
+msnbot-65-52-104-26.search.msn.com
+0 2 0 568 0 0
+-
+abts-kk-dynamic-087.192.178.122.airtelbroadband.in
+0 22 21 1030588 1 1335120238
+/
+119.82.103.146
+0 24 23 584577 1 1333452533
+/
+abts-tn-dynamic-085.165.174.122.airtelbroadband.in
+0 22 21 1030588 1 1335197821
+/
+69.58.178.56
+0 12 11 148707 1 1334909883
+/
+server60191.santrex.net
+0 1 0 297 1 1334153547
+-
+203.92.59.251
+0 20 17 508191 2 1334919538
+/
+abts-north-dynamic-130.159.162.122.airtelbroadband.in
+0 44 42 1035681 1 1333454510
+/
+ee-in-f158.1e100.net
+0 1 1 10335 1 1333433605
+/
+srv-7.builtwith.com
+0 1 1 10267 1 1333467517
+/
+abts-kk-dynamic-069.6.172.122.airtelbroadband.in
+0 22 21 520813 1 1333439504
+/
+iy-in-f80.1e100.net
+0 4 4 41237 0 0
+-
+abts-kk-dynamic-161.152.166.122.airtelbroadband.in
+0 23 22 1035166 1 1334985674
+/
+baiduspider-123-125-71-100.crawl.baidu.com
+0 1 0 284 0 0
+-
+59.99.247.117
+0 52 47 934449 1 1333364345
+/
+abts-mum-dynamic-249.175.179.122.airtelbroadband.in
+0 37 34 895637 1 1333437535
+/
+ec2-50-17-46-166.compute-1.amazonaws.com
+0 1 1 10267 1 1333360593
+/
+baiduspider-180-76-5-91.crawl.baidu.com
+0 1 1 10335 1 1333995608
+/
+abts-kk-dynamic-083.35.172.122.airtelbroadband.in
+0 38 35 912476 1 1333599275
+/
+s33-08.opera-mini.net
+0 22 21 1030588 1 1335208273
+/
+209.120.218.201
+0 3 3 39065 1 1333373682
+/
+baiduspider-180-76-5-99.crawl.baidu.com
+0 3 3 24725 3 1334879666
+/
+baiduspider-123-125-71-58.crawl.baidu.com
+0 1 0 288 0 0
+-
+iy-in-f91.1e100.net
+0 4 4 103548 0 0
+-
+aircel-gprs-194.17.251.27.aircel.co.in
+0 22 21 1030588 1 1334664903
+/
+c.aihit.com
+0 10 8 169950 1 1334237407
+/
+abts-north-dynamic-212.28.161.122.airtelbroadband.in
+0 52 46 1064073 1 1333491810
+/
+abts-north-dynamic-203.25.163.122.airtelbroadband.in
+0 22 21 1030588 1 1334943323
+/
+del-static-150-1-12-61.direct.net.in
+0 23 22 1035166 1 1334735048
+/
+122.248.163.3
+0 27 25 553394 1 1333954250
+/
+59.90.10.97
+0 24 23 529969 1 1333382360
+/
+117.192.15.186
+0 22 21 520813 1 1333951152
+/
+baiduspider-220-181-108-163.crawl.baidu.com
+0 1 1 1432 0 0
+-
+117.228.70.99
+0 7 7 88076 1 1333570968
+/
+baiduspider-220-181-108-167.crawl.baidu.com
+0 1 1 13405 1 1334671945
+/
+115.242.79.91
+0 19 18 1035282 1 1335180204
+/
+msnbot-157-55-17-148.search.msn.com
+0 10 6 124774 4 1334756147
+/
+198.175.68.38
+0 17 16 501284 1 1334220319
+/
+iy-in-f83.1e100.net
+0 2 2 18333 1 1334738723
+/
+abts-mh-dynamic-051.37.169.122.airtelbroadband.in
+0 17 16 514950 1 1334228524
+/
+59.92.198.52
+0 7 6 158960 1 1335001550
+/
+baiduspider-220-181-108-174.crawl.baidu.com
+0 3 3 42634 3 1334995152
+/
+iy-in-f94.1e100.net
+0 4 3 15868 1 1333879927
+/
+106.51.87.198
+0 32 31 1382382 1 1335194076
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+baiduspider-180-76-5-107.crawl.baidu.com
+0 1 1 10261 1 1335234530
+/
+213.186.127.14.utel.net.ua
+0 1 1 10261 1 1335227271
+/
+180.76.6.20
+0 1 1 10261 1 1335234528
+/
+116.202.132.71
+0 37 34 1405400 1 1335243019
+/
+pm79.internetseer.com
+0 2 2 0 2 1335245314
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.calcipe.com/phpmyadmin/import.php
+0 20
+http://localhost/paramount/
+0 1
+http://ibcablr.com/calcipe.html
+0 7
+http://calcipe.com/index.php/home/activate/w6f56n18az3v
+0 2
+http://calcipe.com/index.php/home/price
+0 430
+- (Direct Request)
+0 2085
+http://www.calcipe.com/phpmyadmin/tbl_addfield.php
+0 14
+http://calcipe.com/css/style.css
+0 147
+http://www.google.co.in/url
+0 3
+http://calcipe.com/index.php/home/activate/7y9w4hcaykax
+0 6
+http://calcipe.com/index.php/home/activate/86hoa23crmk3
+0 1
+http://calcipe.com/phpmyadmin/index.php
+0 85
+http://calcipe.com/css/calcipe.css
+0 120
+http://us.mc1628.mail.yahoo.com/mc/welcome
+0 1
+http://calcipe.com/index.php/home/activate/3zmt4jn14sd0
+0 3
+http://www.calcipe.com/index.php/admin/view_user/97
+0 1
+http://calcipe.com/index.php/home/activate/zs6kddyoz11o
+0 21
+http://in.mc1923.mail.yahoo.com/mc/welcome
+0 16
+http://www.calcipe.com/index.php/home/price
+0 833
+http://calcipe.com/index.php/home/activate/cgzb1zmzj0jh
+0 18
+http://webmail.vsnl.com/
+0 1
+http://calcipe.com/index.php/member/edit_profile
+0 114
+http://calcipe.com/css/userRegister.css
+0 8
+http://calcipe.com/phpmyadmin/
+0 13
+http://www.ibcablr.com/Achieve/IBCAGT.html
+0 1
+http://in.mc1934.mail.yahoo.com/mc/welcome
+0 12
+http://www.calcipe.com/index.php/admin/delUser
+0 7
+http://calcipe.com/index.php/admin/dash_board
+0 47
+http://calcipe.com/phpmyadmin/tbl_structure.php
+0 45
+http://calcipe.com/index.php/gredient/
+0 174
+http://www.calcipe.com/phpmyadmin/index.php
+0 55
+http://calcipe.com/index.php
+0 163
+http://www.calcipe.com/
+0 5975
+http://calcipe.com/index.php/home/activate/xnp5tzd3717j
+0 7
+http://calcipe.com/index.php/home/activate/5fpew17harst
+0 4
+http://calcipe.com/phpmyadmin/navigation.php
+0 31
+http://calcipe.com/index.php/home/activate/1d86fatyejzc
+0 10
+http://calcipe.com/css/default.css
+0 55
+http://www.calcipe.com/css/userRegister.css
+0 2
+http://calcipe.com/index.php/home/activate/nchn1z7hksvr
+0 26
+http://calcipe.com/index.php/home/show_form1/1/
+0 2
+http://www.calcipe.com/index.php/gredient/gredient_edit/970
+0 3
+http://calcipe.com/index.php/site/recipe/15
+0 11
+http://www.linkedin.com/profile/view
+0 2
+http://calcipe.com/index.php/site/changePlan
+0 1
+http://www.calcipe.com/css/calcipe.css
+0 317
+http://calcipe.com/index.php/site/recipe/30
+0 8
+http://www.calcipe.com/phpmyadmin/querywindow.php
+0 17
+http://www.calcipe.com/index.php/admin/helpRequest
+0 3
+http://calcipe.com/css/calcipe_reg.css
+0 4
+http://www.calcipe.com/index.php/member/update_password
+0 2
+http://calcipe.com/index.php/site/recipe/45
+0 8
+http://www.calcipe.com/index.php/gredient
+0 12
+http://us.mg1.mail.yahoo.com/neo/launch
+0 1
+http://calcipe.com/index.php/home/create_member
+0 18
+http://www.calcipe.com/phpmyadmin/main.php
+0 65
+http://calcipe.com/index.php/site/recipe/60
+0 2
+http://www.calcipe.com/css/default.css
+0 218
+http://www.calcipe.com/phpmyadmin/tbl_structure.php
+0 17
+http://www.calcipe.com/phpmyadmin/tbl_sql.php
+0 61
+http://www.calcipe.com/index.php/admin/Ingredients
+0 6
+http://www.calcipe.com/css/tcal.css
+0 5
+http://www.calcipe.com/index.php/site/send_helpRequest/
+0 1
+http://www.calcipe.com/index.php/admin/allUser/50
+0 26
+http://calcipe.com/css/movingboxes.css
+0 4
+http://www.calcipe.com/index.php/home/contactus/success
+0 1
+http://www.calcipe.com/index.php/home/contactus
+0 237
+http://calcipe.com/index.php/site/members_area
+0 334
+http://www.calcipe.com/index.php/site/recipe
+0 73
+http://calcipe.com/index.php/site/dash_board
+0 658
+http://calcipe.com/index.php/home/activate/891ob20v80ns
+0 18
+http://calcipe.com/index.php/home/activate/ef0ggcpnp535
+0 4
+http://calcipe.com/index.php/home/activate/5evh37v6fyz0
+0 13
+http://calcipe.com/css/tcal.css
+0 8
+http://www.calcipe.com/phpmyadmin/navigation.php
+0 37
+http://yandex.ru/yandsearch
+0 1
+http://www.calcipe.com/index.php/site/view_recipe/122
+0 3
+http://www.calcipe.com/index.php/site/view_recipe/123
+0 5
+http://www.calcipe.com/index.php/site/view_recipe/125
+0 4
+http://calcipe.com/index.php/admin/allUser
+0 19
+http://calcipe.com/phpmyadmin/db_structure.php
+0 25
+http://calcipe.com/index.php/home/activate/ztxjw4cyto90
+0 2
+http://www.calcipe.com/index.php/admin/allUser
+0 76
+http://calcipe.com/index.php/site/view_recipe/127
+0 3
+http://calcipe.com/index.php/home/show_form1/1
+0 615
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/10/1.0.35/uk/en-GB/view.html/0
+0 3
+http://calcipe.com/index.php/home/activate/a0c53bnz1z0z
+0 18
+http://au.mc1206.mail.yahoo.com/mc/welcome
+0 1
+http://calcipe.com/index.php/site/view_recipe/130
+0 3
+http://www.calcipe.com/css/buttons.css
+0 2
+http://www.calcipe.com/index.php/site/changePlan
+0 2
+http://calcipe.com/index.php/site/view_recipe/141
+0 3
+http://calcipe.com/index.php/site/view_recipe/142
+0 5
+http://www.calcipe.com/index.php/admin/view_user/101
+0 1
+http://calcipe.com/index.php/site/view_recipe/143
+0 3
+http://www.calcipe.com/index.php/home/create_member
+0 26
+http://www.calcipe.com/index.php/admin/view_user/104
+0 1
+http://www.calcipe.com/index.php/admin/view_user/105
+0 1
+http://www.calcipe.com/css/mini-pricing-grid.css
+0 2
+http://calcipe.com/index.php/site/recipe/
+0 3
+http://www.calcipe.com/index.php/admin/Ingredients/50
+0 2
+http://calcipe.com/phpmyadmin/sql.php
+0 71
+http://calcipe.com/index.php/site/view_recipe/161
+0 3
+http://in.mg61.mail.yahoo.com/neo/launch
+0 1
+http://calcipe.com/index.php/site/view_recipe/169
+0 7
+http://dev.paramounttechlabs.com/paramount/
+0 1
+http://www.calcipe.com/index.php/site/view_recipe/194
+0 16
+http://www.calcipe.com/index.php/site/view_recipe/195
+0 3
+http://www.calcipe.com/index.php/site/view_recipe/197
+0 17
+http://calcipe.com/index.php/home/faq
+0 5
+http://calcipe.com/index.php/home/activate/smc7ydwf8vmc
+0 2
+http://calcipe.com/index.php/home/free_confirm
+0 105
+http://calcipe.com/index.php/site/searchRecipe
+0 13
+http://www.calcipe.com/index.php/admin/dash_board
+0 184
+http://sn122w.snt122.mail.live.com/mail/InboxLight.aspx
+0 12
+http://www.orangeask.com/
+0 2
+http://calcipe.com/index.php/site/view_recipe/195
+0 4
+http://calcipe.com/index.php/admin
+0 13
+http://calcipe.com/index.php/site/view_recipe/197
+0 19
+http://calcipe.com/index.php/site/recipe
+0 110
+http://www.calcipe.com/index.php/admin/bannerAd
+0 2
+http://www.calcipe.com/phpmyadmin/tbl_row_action.php
+0 58
+http://www.calcipe.com/index.php/admin/recipes/50
+0 8
+http://whois.domaintools.com/calcipe.com
+0 2
+http://calcipe.com/index.php/site/send_helpRequest/
+0 1
+http://www.calcipe.com/index.php/site/viewRequests/
+0 1
+http://www.calcipe.com/index.php/site/dash_board
+0 307
+http://calcipe.com/phpmyadmin/tbl_addfield.php
+0 28
+http://www.calcipe.com/phpmyadmin/server_sql.php
+0 8
+http://calcipe.com/index.php/home/activate/djmwc4vr8sgy
+0 17
+http://www.calcipe.com/index.php
+0 78
+http://www.ibcablr.com/RC/emailer.html
+0 4
+http://calcipe.com/css/style2.css
+0 16
+http://www.calcipe.com/css/screen.css
+0 125
+http://www.calcipe.com/index.php/admin/allPlans
+0 15
+http://www.calcipe.com/phpmyadmin/phpmyadmin.css.php
+0 33
+http://www.calcipe.com/index.php/admin
+0 49
+https://www.google.co.in/
+0 2
+http://calcipe.com/phpmyadmin/main.php
+0 24
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/10/1.0.35/in/en-IN/view.html/0
+0 7
+http://www.calcipe.com/index.php/gredient/
+0 40
+http://www.rediffmail.com/cgi-bin/red.cgi
+0 7
+http://calcipe.com/index.php/calcipe/relogin
+0 14
+http://calcipe.com/index.php/home/contactus
+0 83
+http://www.ibcablr.com/Achievements.html
+0 3
+http://calcipe.com/index.php/home/activate/dn1otxe12jcz
+0 3
+http://calcipe.com/index.php/calcipe/index
+0 41
+http://www.calcipe.com/phpmyadmin/sql.php
+0 150
+http://www.ibcablr.com/about_us.html
+0 6
+http://www.google.es/url
+0 1
+http://www.calcipe.com/index.php/calcipe/index
+0 19
+http://calcipe.com/index.php/site/multi_recipe
+0 105
+http://www.calcipe.com/index.php/gredient/gredient_edit/661
+0 4
+http://www.calcipe.com/index.php/member/edit_profile
+0 66
+http://www.calcipe.com/index.php/home/faq
+0 51
+http://us.mc1206.mail.yahoo.com/mc/welcome
+0 11
+http://in.mc1931.mail.yahoo.com/mc/showFolder
+0 1
+http://www.calcipe.com/index.php/site/members_area
+0 226
+http://www.calcipe.com/phpmyadmin/
+0 26
+http://www.calcipe.com/index.php/site/recipe/15
+0 5
+http://www.calcipe.com/index.php/site/edit_recipe/122
+0 2
+http://www.calcipe.com/index.php/site/edit_recipe/123
+0 2
+http://www.calcipe.com/index.php/site/edit_recipe/125
+0 2
+http://www.calcipe.com/index.php/admin/delUserbyAdmin
+0 4
+http://www.calcipe.com/index.php/home/feature
+0 173
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/10/1.0.35/us/en-US/view.html/0
+0 5
+http://www.calcipe.com/index.php/site/recipe/30
+0 5
+http://sn117w.snt117.mail.live.com/mail/InboxLight.aspx
+0 1
+http://www.calcipe.com/index.php/site/edit_recipe/142
+0 21
+http://calcipe.com/index.php/gredient/gredient_edit/960
+0 3
+http://www.calcipe.com/phpmyadmin/db_structure.php
+0 48
+http://www.calcipe.com/index.php/gredient/gredient_edit/251
+0 4
+http://www.calcipe.com/index.php/site/recipe/45
+0 6
+http://www.calcipe.com/index.php/admin/recipes
+0 11
+http://calcipe.com/index.php/home/activate/a3je24d20h2x
+0 15
+http://calcipe.com/
+0 578
+http://www.calcipe.com/index.php/home/show_form1/1
+0 220
+http://calcipe.com/index.php/site/edit_recipe/142
+0 3
+http://calcipe.com/index.php/gredient/gredient_edit/981
+0 12
+http://www.calcipe.com/index.php/site/recipe/60
+0 11
+http://www.calcipe.com/index.php/admin/benefitSettings
+0 1
+http://www.calcipe.com/index.php/
+0 1
+http://calcipe.com/index.php/admin/allUser/50
+0 2
+http://www.calcipe.com/index.php/admin/recipes/100
+0 4
+http://www.calcipe.com/index.php/site/edit_recipe/194
+0 6
+http://www.calcipe.com/index.php/site/edit_recipe/197
+0 4
+http://www.calcipe.com/index.php/calcipe/relogin
+0 216
+http://f5mail.rediff.com/prism/readmail
+0 1
+http://www.ibcablr.com/calcipe.html
+0 254
+http://www.calcipe.com/index.php/home/free_confirm
+0 250
+http://calcipe.com/index.php/site/edit_recipe/196
+0 4
+http://calcipe.com/index.php/site/edit_recipe/197
+0 12
+http://calcipe.com/index.php/site/edit_recipe/198
+0 7
+http://calcipe.com/index.php/site/edit_recipe/199
+0 1
+http://www.calcipe.com/css/style.css
+0 36
+http://calcipe.com/index.php/gredient
+0 7
+http://calcipe.com/phpmyadmin/phpmyadmin.css.php
+0 24
+http://calcipe.com/index.php/home/feature
+0 72
+http://in.mc1922.mail.yahoo.com/mc/welcome
+0 1
+http://calcipe.com/index.php/home/activate/7xry2hmcv9ox
+0 24
+http://www.calcipe.com/index.php/forgotPassword
+0 64
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+0 342
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 144
+InternetSeer.com
+0 98
+Mozilla/4.0 (compatible;)
+0 63
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; FunWebProducts; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET4.0C)
+0 13
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+0 8
+Mozilla/5.0 (Linux; U; Android 2.2; en-in; Desire_A8181 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile
+0 53
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 122
+Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+0 46
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .
+0 24
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28
+0 106
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+0 22
+Googlebot-Image/1.0
+0 10
+Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20100101 Firefox/12.0
+0 147
+Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
+0 37
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 362
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 (.NET CLR 3.5.30729)
+0 52
+Mozilla/5.0 (Windows NT 6.0; rv:11.0) Gecko/20100101 Firefox/11.0
+0 480
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+0 747
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 22
+facebookplatform/1.0 (+http://developers.facebook.com)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; BOIE8;ENUSMSE)
+0 24
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 (.NET CLR 3.5.30729)
+0 25
+Mozilla/5.0 (MSIE 7.0; Macintosh; U; SunOS; X11; gu; SV1; InfoPath.2; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:2.0) Gecko/20100101 Firefox/4.0
+0 30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 34
+Mozilla/5.0 (compatible; en-US; ReverseGet/1.0; http://reverseget.com/; robot@reverseget.com)
+0 1
+Mozilla/4.79 [en] (Windows NT 5.0; U)
+0 1
+TurnitinBot/2.1 (http://www.turnitin.com/robot/crawlerinfo.html)
+0 44
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 76
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+0 69
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+0 23
+Opera/9.80 (Android; Opera Mini/7.29530/27.1530; U; en) Presto/2.8.119 Version/11.10
+0 22
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENIN)
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19
+0 452
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.3; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 72
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98)
+0 8
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 22
+Mozilla/5.0 (Windows NT 5.1; rv:8.0) Gecko/20100101 Firefox/8.0
+0 38
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; FunWebProducts; GTB7.3; SLCC2; .NET CLR 2.0.50727; .NET CLR 3
+0 76
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+0 1029
+Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9300; en-GB) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.546 Mobile Safari/53
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS7219; SIMBAR={B38E7F2B-BF5E-11E0-847B-0019D1AFF906}; .NET
+0 28
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; BTRS122413; InfoPath.2; AskTbORJ/5.13.1.18107)
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:11.0) Gecko/20100101 Firefox/11.0
+0 94
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.229 Version/11.61
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 392
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.229 Version/11.62
+0 38
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.3; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; InfoPath.2; FunWebProducts)
+0 28
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+0 837
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 10
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.3; .NET CLR 1.1.4322)
+0 43
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB5
+0 9
+BlackBerry9630/5.0.0.732 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/2.0; +http://ahrefs.com/robot/)
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 by Peacy ( .NET CLR 3.5.30729; .NE
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1.2 Safari/534.52.7
+0 21
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BTRS122327; GTB7.3; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NE
+0 44
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+0 174
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.3; .NET4.0C; .NET4.0E; MS-RTC LM 8; .NET CLR 1.1.432
+0 23
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729)
+0 22
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; TheFreeDictionary.com; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.
+0 1
+Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48
+0 66
+Mozilla/5.0 (compatible; AhrefsBot/3.0; +http://ahrefs.com/robot/)
+0 4
+SeznamBot/3.0 (+http://fulltext.sblog.cz/)
+0 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:11.0) Gecko/20100101 Firefox/11.0
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2; .NET C
+0 160
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.1)
+0 5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+0 22
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+0 23
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 280
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB7.3; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET 
+0 8
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru-RU; rv:1.8.1.1)Gecko/20061204 Firefox/2.0.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0
+0 476
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.634.0 Safari/534.16
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 23
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19
+0 115
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.307.11 Safari/532.9
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 58
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+0 18
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 22
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 60
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 5
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 44
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 GTB7.1 (.NET CLR 3.5.30729)
+0 22
+Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-I9000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Saf
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+0 62
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+0 22
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 671
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 64
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+0 1
+Internet Explorer 6.0
+0 40
+Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+0 79
+Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML, like Gecko) Qt/4.6.3 Safari/532.4
+0 22
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B
+0 7
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET C
+0 27
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; BTRS122291; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30
+0 17
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; chromeframe/18.0.1025.142; .NET CLR 1.1.4322; .NET CLR 2.0.50
+0 44
+Mozilla/5.0 (Windows NT 5.1; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+0 22
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729; .NET4.0E)
+0 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; HTC_SensationXE_Beats_Z715e; en-in) AppleWebKit/533.16 (KHTML, like Gecko) 
+0 22
+Opera/9.00 (Windows NT 5.1; U; en)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:6.0.1) Gecko/20100101 Firefox/6.0.1
+0 23
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NE
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19
+0 94
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; yie8)
+0 24
+Mozilla/5.0 (Windows NT 6.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+0 36
+EventMachine HttpClient
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 2
+Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
+0 22
+Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Sa
+0 22
+Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+0 176
+SAMSUNG-GT-C6712/C6712DDKG1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 57
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; CyberSafe-IWA-Enable; .NET CLR 3.5.30729; .NET CLR 3.0.30729)
+0 47
+Mozilla/5.0 (Windows NT 6.1; rv:10.0) Gecko/20100101 Firefox/10.0
+0 22
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 57
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11
+0 267
+Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 by Peacy
+0 22
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 102
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11
+0 22
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 22
+GSLFbot
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.55.3 (KHTML, like Gecko) Version/5.1.5 Safari/534.55.3
+0 110
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 118
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.3; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 30
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 3
+Mozilla/5.0 (compatible; aiHitBot/1.1; +http://www.aihit.com/)
+0 10
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+0 24
+Mozilla/5.0 (Windows NT 6.1; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
+0 26
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.507
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.3 Safari/532.0
+0 64
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; chromeframe/18.0.1025.151)
+0 28
+Mozilla/5.0 (Linux; U; Android 1.6; en-gb; SonyEricssonX10i Build/R2BA026) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1
+0 20
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+0 125
+Mozilla/5.0 (compatible; heritrix/3.1.1-SNAPSHOT-20120116.200628 +http://www.archive.org/details/archive.org_bot)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; chromeframe/18.0.1025.142; InfoPath.2; .NET4.0C)
+0 36
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2)
+0 22
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko/20100101 Firefox/11.0
+0 1258
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 268
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.3
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:10.0.1) Gecko/20120225 Firefox/10.0.1
+0 440
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; MS-RTC LM 8)
+0 50
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; TencentTraveler)
+0 9
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0
+0 22
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 18
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 16
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.8) Gecko/20071030 Fedora/2.0.0.8-2.fc8 Firefox/2.0.0.8
+0 22
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25 (.NET CLR 3.5.30729)
+0 22
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.8 (KHTML, like Gecko) Chrome/17.0.942.0 Safari/535.8
+0 39
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 60
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+0 22
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Sa
+0 30
+digsby-asynchttp/0.1
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23 ( .NET CLR 3.5.30729)
+0 19
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 76
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=8879672070968054904)
+0 29
+Mozilla/5.0 (Linux; U; Android 2.2.1; en-gb; GT-S5830 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile S
+0 2
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 224
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.1; yie8)
+0 37
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 77
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+0 23
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 112
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.53.11 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10
+0 22
+Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.5; U; en-US) AppleWebKit/534.6 (KHTML, like Gecko) wOSBrowser/234.83 Safari/534.6 To
+0 45
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.53.11 (KHTML, like Gecko)
+0 11
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+0 22
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.24; ips-agent) Gecko/20111107 Ubuntu/10.04 (lucid) Firefox/3.6.24
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10
+0 25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 234
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 13
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 192
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SIMBAR={242F2E8A-2899-11E1-8A6D-546AC8915F0D}; SLCC2; .NET CL
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0
+0 32
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; WOW64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3
+0 7
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 475
+Opera/9.80 (Windows NT 6.1; WOW64; U; en) Presto/2.10.229 Version/11.62
+0 39
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.28) Gecko/20120306 (CK-IBM) Firefox/3.6.28
+0 20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 1
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8L1
+0 22
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/3.0.190.1 Safari/531.0
+0 23
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3
+0 19
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23
+0 22
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+0 41
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+0 15
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=14791870619131188084)
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 1220
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.6) Gecko/2009011913 Firefox/3.0.6 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+0 437
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28
+0 59
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0
+0 23
+Gist Server
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0) Gecko/20100101 Firefox/10.0
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.3; BOIE8;ENUSMSCOM)
+0 22
+Mozilla/5.0 (compatible; SWEBot/1.0; +http://swebot.net)
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+0 16
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.40607;  .NET CLR 3.0.30729)
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.107 Safari/534.13 Built
+0 1
+NextGenSearchBot 1 (for information visit http://www.zoominfo.com/About/misc/NextGenSearchBot.aspx)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729
+0 40
+Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176
+0 42
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB7.3; InfoPath.2)
+0 8
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 27
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+0 81
+Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543a Safari/419.3
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; GT-I9001 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 109
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
+0 6
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MASN)
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

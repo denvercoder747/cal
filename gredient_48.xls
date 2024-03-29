@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>Gradient Name</b></td><td class=xl24 width=64 ><b>Quantity</b></td><td class=xl24 width=64 ><b>Measure</b></td><td class=xl24 width=64 ><b>Rate</b></td><td class=xl24 width=64 ><b>Amount Per KG</b></td><td class=xl24 width=64 ><b>Purchased From</b></td><td class=xl24 width=64 ><b>Brand</b></td><td class=xl24 width=64 ><b>Contact</b></td></tr><tr><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >BasmatiRice</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >DFT</td><td class=xl24 width=64 >2352523</td></tr><tr><td class=xl24 width=64 >Beans</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >HHH</td><td class=xl24 width=64 >23423444</td></tr><tr><td class=xl24 width=64 >beef</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >90.00</td><td class=xl24 width=64 >90.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >BHG</td><td class=xl24 width=64 >3423424</td></tr><tr><td class=xl24 width=64 >Biriyanimasala</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >ACHY</td><td class=xl24 width=64 >233232</td></tr><tr><td class=xl24 width=64 >Biriyanirice</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >GHG</td><td class=xl24 width=64 >43252352</td></tr><tr><td class=xl24 width=64 >BitterGourd</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >BJK</td><td class=xl24 width=64 >3423225</td></tr><tr><td class=xl24 width=64 >BlackGramDal</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >90.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >NMT</td><td class=xl24 width=64 >23213214</td></tr><tr><td class=xl24 width=64 >Butter</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >50.00</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >MILMA</td><td class=xl24 width=64 >355252</td></tr><tr><td class=xl24 width=64 >CHICKEN</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >110.00</td><td class=xl24 width=64 >110.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >JKL</td><td class=xl24 width=64 >231313</td></tr><tr><td class=xl24 width=64 >chickenmasala</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >12.00</td><td class=xl24 width=64 >24.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >achy</td><td class=xl24 width=64 >646426567</td></tr><tr><td class=xl24 width=64 >chillypowder</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >15.00</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >Eastern</td><td class=xl24 width=64 >54353564</td></tr><tr><td class=xl24 width=64 >Cinnamon</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >250.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >WWE</td><td class=xl24 width=64 >21322424</td></tr><tr><td class=xl24 width=64 >Coriander</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >CVC</td><td class=xl24 width=64 >432344234</td></tr><tr><td class=xl24 width=64 >CorianderPowder</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >50.00</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >thg</td><td class=xl24 width=64 >436346</td></tr><tr><td class=xl24 width=64 >Cumin</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >10.00</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >HGT</td><td class=xl24 width=64 >4324234234</td></tr><tr><td class=xl24 width=64 >Curd</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Mililiter</td><td class=xl24 width=64 >15.00</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >MILMA</td><td class=xl24 width=64 >355252</td></tr><tr><td class=xl24 width=64 >curryleaf</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >bgh</td><td class=xl24 width=64 >43424444</td></tr><tr><td class=xl24 width=64 >Dal</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >35.00</td><td class=xl24 width=64 >70.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >BHT</td><td class=xl24 width=64 >2113123</td></tr><tr><td class=xl24 width=64 >Drumstick</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >50.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >VBV</td><td class=xl24 width=64 >2141414</td></tr><tr><td class=xl24 width=64 >GaramMasala</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >63.00</td><td class=xl24 width=64 >63.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >Eastern</td><td class=xl24 width=64 >324444</td></tr><tr><td class=xl24 width=64 >GaramMasalaPowder</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >62.00</td><td class=xl24 width=64 >62.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >Eastern</td><td class=xl24 width=64 >24521</td></tr><tr><td class=xl24 width=64 >Garlic</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >26.00</td><td class=xl24 width=64 >52.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >KHL</td><td class=xl24 width=64 >221213123</td></tr><tr><td class=xl24 width=64 >Garlicpowder</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >KHL</td><td class=xl24 width=64 >25456734</td></tr><tr><td class=xl24 width=64 >Ginger</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >50.00</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >NMN</td><td class=xl24 width=64 >32423424</td></tr><tr><td class=xl24 width=64 >Gingerpowder</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >54.00</td><td class=xl24 width=64 >108.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >NMN</td><td class=xl24 width=64 >3434235</td></tr><tr><td class=xl24 width=64 >Horsegram</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >RTR</td><td class=xl24 width=64 >34432444</td></tr><tr><td class=xl24 width=64 >LadiesFinger</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >15.00</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >BBB</td><td class=xl24 width=64 >8686844</td></tr><tr><td class=xl24 width=64 >Maida</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >BDF</td><td class=xl24 width=64 >67745665</td></tr><tr><td class=xl24 width=64 >mutton</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >170.00</td><td class=xl24 width=64 >170.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >ADS</td><td class=xl24 width=64 >234444</td></tr><tr><td class=xl24 width=64 >oil</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >Liter</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >NJH</td><td class=xl24 width=64 >23523525</td></tr><tr><td class=xl24 width=64 >Onion</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >30.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >RTD</td><td class=xl24 width=64 >3243444</td></tr><tr><td class=xl24 width=64 >pepperpowder</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >20.00</td><td class=xl24 width=64 >200.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >Cayenne</td><td class=xl24 width=64 >3244234</td></tr><tr><td class=xl24 width=64 >Potato</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >CVM</td><td class=xl24 width=64 >55455545</td></tr><tr><td class=xl24 width=64 >Pumpkin</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >45.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >DSD</td><td class=xl24 width=64 >213213123</td></tr><tr><td class=xl24 width=64 >redchilly</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >60.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >RTS</td><td class=xl24 width=64 >34234234</td></tr><tr><td class=xl24 width=64 >rice</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >25.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >ponni</td><td class=xl24 width=64 >7411575542</td></tr><tr><td class=xl24 width=64 >Saffron</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >10.00</td><td class=xl24 width=64 >100.00</td><td class=xl24 width=64 >loal</td><td class=xl24 width=64 >GHY</td><td class=xl24 width=64 >213213</td></tr><tr><td class=xl24 width=64 >salt</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >Annapoorna</td><td class=xl24 width=64 >23123123</td></tr><tr><td class=xl24 width=64 >Sambarpowder</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >20.00</td><td class=xl24 width=64 >40.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >eastern</td><td class=xl24 width=64 >3223525</td></tr><tr><td class=xl24 width=64 >Tapioca</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >20.00</td><td class=xl24 width=64 >20.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >LMK</td><td class=xl24 width=64 >werwerr</td></tr><tr><td class=xl24 width=64 >Tomato</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >20.00</td><td class=xl24 width=64 >20.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >2344444</td></tr><tr><td class=xl24 width=64 >Turnericpowder</td><td class=xl24 width=64 >500.00</td><td class=xl24 width=64 >Gram</td><td class=xl24 width=64 >40.00</td><td class=xl24 width=64 >80.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >NVC</td><td class=xl24 width=64 >242344</td></tr><tr><td class=xl24 width=64 >wheatpowder</td><td class=xl24 width=64 >1.00</td><td class=xl24 width=64 >KiloGram</td><td class=xl24 width=64 >40.00</td><td class=xl24 width=64 >40.00</td><td class=xl24 width=64 >local</td><td class=xl24 width=64 >ADS</td><td class=xl24 width=64 >3235445</td></tr></table></body></html>

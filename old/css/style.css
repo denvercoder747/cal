@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#FFF;
+	font-family:Monaco,Consolas,'Lucida Grande','Lucida Console';
+	font-size:16px;
+	text-shadow:rgba(0,0,0,0.01) 0 0 0;
+}
+#wrapper{
+	width:960px;
+	margin:0 auto;
+}
+#content{
+	width:620px;
+	margin:5px;
+	float:left;
+}
+.message_form{
+	width:520px;
+	padding:20px 20px 0px 40px;
+	border:1px dashed #A0A0A4;
+}
+.name_field label, .mail_field label, .message_field label{
+font-weight: bold;
+}
+.message_field label{
+    float: left;
+}
+.name_field{
+	width:250px;
+	float:left;
+}
+.mail_field{
+	width:250px;
+	float:left;
+}
+.message_form input[type="text"]{
+	width: 170px;
+}
+.message_form textarea{
+width: 490px;
+height: 70px;
+}
+.message_show{
+	border-bottom:1px dashed #A0A0A4;
+}
+.error
+{
+	color:#F00;
+}
+	#pagination a, #pagination strong {
+	 background: #e3e3e3;
+	 padding: 4px 7px;
+	 text-decoration: none;
+	border: 1px solid #cac9c9;
+	color: #292929;
+	font-size: 13px;
+	}
+
+	#pagination strong, #pagination a:hover {
+	 font-weight: normal;
+	 background: #cac9c9;
+	}		
+.preview
+{
+width:200px;
+border:solid 1px #dedede;
+padding:10px;
+}
+#preview
+{
+color:#cc0000;
+font-size:12px
+}
+    
+/* Upload Images */	
+	
+	#container {
+        margin: 0 auto;
+        margin-top:30px;
+        width: 900px;
+    }
+    #imgshow {
+        float: left;
+        width: 500px;
+    }
+    .imgdet {
+        border:1px solid #e3e3e3;
+        padding:2px;
+    }
+    #imglist {
+        float: right;
+        width: 350px;
+    }
+    .imgfor {
+        border: 1px solid #e3e3e3;
+        padding: 10px 0;
+    }
+    #fupload {
+        margin: 0;
+        border: 1px solid #e3e3e3;
+        padding: 10px 0;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .btnupload {
+        border: 1px solid #e3e3e3;
+        background: #f3f3f3;
+        font-size: 11px;
+        font-weight: bold;
+        padding: 2px 5px;
+    }
+    .imgbox {
+        text-align: center;
+        width: 104px;
+        height: 120px;
+        float: left;
+        margin: 0 0 15px 10px;
+    }
+    .thumb {
+        border:1px solid #fff;
+        padding:2px;
+    }
+    .thumb:hover {
+        border-color: #0066cc;
+    }
+    .thumbclick {
+        border:1px solid #0066ff;;
+        padding:2px;
+    }
+    .dadel {
+        margin-top: 2px;
+    }
+    .adel {
+        color: #0066cc;
+        font-size: 11px;
+    }
+    .adel:hover {
+        background: #ff0000;
+        color:#fff;
+        text-decoration: none;
+    }
+    .clear {
+        clear: both;
+    }
+    .error p {
+        font-size: 11px;
+        color: #ff0000;
+        margin: 0;
+        padding: 10px 0 0 0;
+    }
+    .bottom {
+        color: #666;
+        font-weight: bold;
+        font-size: 11px;
+        text-align: center;
+        border: 1px solid #e3e3e3;
+        padding: 10px;
+        margin-top: 10px;
+    }
+    .bottom a {
+        color: #0066cc;
+        font-size: 14px;
+    }
+    .bottom a:hover {
+        text-decoration: none;
+        color:#fff;
+        background: #0066cc;
+    }
+	
+	/* Auto Suggest */

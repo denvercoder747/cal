@@ -1,0 +1,47 @@
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color:#4088b8;
+    clear: both;
+}
+
+h1 {
+}
+
+h2 {
+    color: #c8c8c8;
+		margin-top: -25px;
+}
+
+h3 {
+}
+
+h4 {
+    color: #333;
+    margin-bottom: -10px;
+}
+
+p {
+    margin: 10px 0;
+    clear: both;
+}
+
+ul, ol {
+    margin-left 0;
+}
+
+ul ul {
+    margin-bottom: 20px;
+}
+
+#wrap {
+    color: #404040;
+    /*margin: 0 12%;*/
+    margin: 20px 40px;
+}
+
+a {
+    color: #4088b8;
+}
+
+

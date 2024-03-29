@@ -1,0 +1,113 @@
+@charset "utf-8";
+/*
+Style Name: calcipe Style
+Developer : Arulkumaran.P Paramount Tech Labs
+*/
+.widget {
+	width: 770px;
+	margin: 3px;
+	padding: 5px;
+	background: #ebe5cd;
+	border: 1px solid #F8F2DB;
+	margin-bottom: 15px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+.widget a {
+	color: #222;
+	text-decoration: none;
+}
+.widget a:hover {
+	color: #009;
+	text-decoration: underline;
+}
+.tabnav li {
+	display: inline;
+	list-style: none;
+	font-size:10px;
+	padding-right: 5px;
+	text-align:left;
+	border:0px dashed #C30;
+	position:relative;
+	left:-36px;
+}
+.tabnav li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #222;
+	font-weight: bold;
+	font-size:10px;
+	padding: 4px 6px;
+	outline: none;
+}
+.tabnav li a:hover, .tabnav li a:active, .tabnav li.ui-tabs-selected a {
+	background: #403B2A;
+	font-size:10px;
+	color: #F8F2DB;
+	text-decoration: none;
+}
+.tabdiv {
+	margin-top: 2px;
+	background: #fff;
+	border: 1px solid #dedbd1;
+	padding: 5px;
+}
+.tabdiv li {
+	list-style:none;
+	position:relative;
+	left:-20px;
+	color:#1d1d1b;
+	/*margin-left: 5px;*/
+}
+.tabdiv li h2 {
+	font-weight:bolder;
+	font-size:11px;
+	color: #403B2A;
+	margin:0 auto;
+}
+.ui-tabs-hide { display: none; }
+#featuredvid { text-align: center; }
+.fvid { margin-bottom: 5px; }
+.vidselector li {
+	text-align: left;
+	list-style: none;
+	padding: 5px;
+	background: #ffffff;
+	border: 1px solid #dedbd1;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+
+/*Inner Style*/
+#tab_header_sub {
+	color:#0d0d0d;
+	padding-bottom:10px;
+	position:relative;
+}
+#tab_header_sub span {
+	font-weight:bolder;
+	font-size:11px;
+	position:relative;
+	margin-left:20px;
+	color: #555520;
+}
+#tab_header_sub p {
+	text-align:justify;
+	position:relative;
+	padding-left:20px;
+	text-indent:15px;
+	margin:0 auto;
+	color:1d1d1b;
+}
+#recipe_more_image { padding:1px; border:0px dashed #C00; }
+#recipe_more_image li img { height: 100px; width: 135px; }
+#recipe_more_image ul li {
+	list-style: none;
+	margin: 0 5px 20px 0;
+	float: left;
+}
+#recipe_more_image ul li:last-child {  margin-right: 0; }
+.ibe_outer { margin: 0 0 2px 0; }
+.ibe_inner { margin: 0 0 2px 0; 
+}
