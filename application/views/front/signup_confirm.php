@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<?php require_once('meta.php'); ?>
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<title><?php echo $res_meta[0]->title;?></title>
+<meta name="keyword" content="<?php echo $res_meta[0]->meta_keyword;?>" />
+<meta name="description" content="<?php echo $res_meta[0]->meta_description;?>"  />
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+<link href="<?php echo base_url();?>css/calcipe.css" type="text/css" rel="stylesheet" media="all" />
+<link rel="stylesheet" href="<?php echo base_url();?>css/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="<?php echo base_url();?>css/nivo-slider.css" type="text/css" media="screen" />
+<script language="javascript" type="text/javascript" src="<?php echo base_url();?>js/global_validations.js"></script>
+<script language="javascript" type="text/javascript" src="<?php echo base_url();?>js/jquery-1.6.1.min.js"></script>
+<script language="javascript" type="text/javascript" src="<?php echo base_url();?>js/facebox.js"></script>
+<script language="javascript" type="text/javascript" src="<?php echo base_url();?>js/jquery.nivo.slider.js"></script>
+
+<script type="text/javascript">
+$(window).load(function() {
+	$('#slider').nivoSlider();
+});
+</script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+	//for Popup window
+	$('a[rel*=facebox]').facebox({
+	loadingImage : '/images/loading.gif',
+	closeImage   : '/images/close.png'
+	})
+});
+</script>
+</head>
+<body>
+<div id="site_main_wrapper">
+	<!--start site top header-->
+        <?php $this->load->view('includes/front_header'); ?>
+
+    <!--end site top header-->
+	
+    <!--Start site header part-->
+        <?php $this->load->view('includes/front_banner'); ?>
+    <!--End site header Part-->
+    
+    <!--Start site main content wrapper-->
+    <div id="rigister_content_wrapper"><br />
+    	<table width="100%" border="0" cellspacing="2" cellpadding="2">
+    <tr>
+      <td height="" align="center"><h3>An email is sent to <span style="color:#00BF00"><strong><?php echo $this->session->userdata('user_email');?></strong></span>, please confirm back by clicking on the link provided in the email to activate your account. </h3>
+</td>
+      </tr>
+	<tr><td>
+		<h4>Please ensure that <font color="#00CC00">support@calcipe.com</font> is added in to your contact list. So that the verification email does not go into spam box. If you don't see the verification email in your inbox please check spam box. Thank you.</h4>
+	</td></tr>
+      </table>
+      <br /><br />
+    </div>
+    
+    <!--End site main Content Wrapper-->
+    
+    <!--Start site main footer-->
+        <?php $this->load->view('includes/front_footer'); ?>
+    <!--End site main footer-->
+</div>
+</body>
+</html>
