@@ -1,6 +1,6 @@
 <style>
 #company_logo{
-	background: url("/images/Calcipe-recipe-logo.gif") repeat scroll 0 0 transparent;
+	background: url("<?php echo base_url();?>images/Calcipe-recipe-logo.gif") repeat scroll 0 0 transparent;
     float: left;
     height: 81px;
     position: relative;

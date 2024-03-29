@@ -257,7 +257,7 @@ body { margin:0; padding:0; font-family: Verdana, Geneva, Arial, Helvetica, Sans
     border-radius: 3px 3px 3px 3px;
 }
 #feature_content h1 {
-	background-image:url(/images/icon_feature.png);
+	background-image:url(/cal/images/icon_feature.png);
 	background-repeat:no-repeat;
 	background-position:left;
 	height:22px;
@@ -281,7 +281,7 @@ body { margin:0; padding:0; font-family: Verdana, Geneva, Arial, Helvetica, Sans
 	font-weight:normal;
 	line-height:23px;
 	list-style:none;
-	list-style-image:url(/images/arrow.png);
+	list-style-image:url(/cal/images/arrow.png);
 	border-bottom:1px dashed #cac5c5;
 	/*width:255px;*/
 	position:relative;
@@ -329,7 +329,7 @@ body { margin:0; padding:0; font-family: Verdana, Geneva, Arial, Helvetica, Sans
 	font-weight:normal;
 	line-height:23px;
 	list-style:none;
-	list-style-image:url(/images/arrow.png);
+	list-style-image:url(/cal/images/arrow.png);
 	border-bottom:1px dashed #cac5c5;
 	position:relative;
 	top:4px;
@@ -351,7 +351,7 @@ body { margin:0; padding:0; font-family: Verdana, Geneva, Arial, Helvetica, Sans
 	width:280px;
 }
 #testimonial_block h1 {
-	background-image:url(/images/icon_testimonials.png);
+	background-image:url(/cal/images/icon_testimonials.png);
 	background-repeat:no-repeat;
 	background-position:left;
 	height:22px;

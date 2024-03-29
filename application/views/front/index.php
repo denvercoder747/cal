@@ -76,7 +76,7 @@ $(document).ready(function() {
             <div id="new_feature_block">
              <!-- <h1><span>New Features</span></h1>-->
              <div id="saveMoney">
-                <img src="/images/save_money.gif" width="209" border="0" height="129" />
+                <img src="<?php echo base_url();?>images/save_money.gif" width="209" border="0" height="129" />
              </div>
             </div>
             <div class="break"></div>
