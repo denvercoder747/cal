@@ -16,7 +16,7 @@ class Message_model extends CI_Model {
 //		$this->db->where('password', $this->input->post('password'));
 		$query = $this->db->get('user');
 //						print_r($this->db->last_query());
-		if($query->num_rows == 1)
+		if($query->num_rows() == 1)
 		{
 			$row=$query->row_array();
 			$data = array(
